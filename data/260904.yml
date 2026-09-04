@@ -7,13 +7,13 @@ about:
   head: 9732b70
   archived: false
   latestVersion: v6.21.0
-  collectedAt: 2026-09-04T19:18:00Z
+  collectedAt: 2026-09-04T21:18:26Z
 timeline:
   created: 2015-05-03
   lastCommit: 2026-09-01
   lastRelease: 2026-08-10
 popularity:
-  star: 10008
+  star: 10009
   watcher: 61
   fork: 242
   release: 73
@@ -77,6 +77,129 @@ total:
   openIssue: 61
   commit: 9419
 ---
+path: /home/runner/.x-repo/github.com/johnkerl/miller
+collectedAt: 2026-09-04T21:18:38Z
+loc:
+  Json:
+    code: 715955
+    comments: 0
+    blanks: 0
+    files: 89
+  Go:
+    code: 286155
+    comments: 10495
+    blanks: 10155
+    files: 392
+  Autoconf:
+    code: 10427
+    comments: 784
+    blanks: 4022
+    files: 94
+  Css:
+    code: 1504
+    comments: 115
+    blanks: 356
+    files: 5
+  Sh:
+    code: 1110
+    comments: 247
+    blanks: 158
+    files: 31
+  Ruby:
+    code: 947
+    comments: 209
+    blanks: 177
+    files: 20
+  Python:
+    code: 653
+    comments: 124
+    blanks: 158
+    files: 7
+  C:
+    code: 414
+    comments: 55
+    blanks: 44
+    files: 9
+  Zig:
+    code: 373
+    comments: 10
+    blanks: 34
+    files: 2
+  Rust:
+    code: 319
+    comments: 24
+    blanks: 46
+    files: 8
+  Cpp:
+    code: 268
+    comments: 8
+    blanks: 34
+    files: 2
+  Bash:
+    code: 252
+    comments: 80
+    blanks: 47
+    files: 15
+  Nim:
+    code: 188
+    comments: 16
+    blanks: 27
+    files: 6
+  Yaml:
+    code: 177
+    comments: 0
+    blanks: 10
+    files: 3
+  VimScript:
+    code: 131
+    comments: 8
+    blanks: 10
+    files: 2
+  RPMSpecfile:
+    code: 128
+    comments: 1
+    blanks: 55
+    files: 1
+  Makefile:
+    code: 122
+    comments: 80
+    blanks: 50
+    files: 6
+  D:
+    code: 38
+    comments: 7
+    blanks: 4
+    files: 2
+  Batch:
+    code: 10
+    comments: 0
+    blanks: 2
+    files: 1
+  Html:
+    code: 6
+    comments: 2
+    blanks: 4
+    files: 1
+  JavaScript:
+    code: 6
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 33834
+    blanks: 6496
+    files: 143
+  Text:
+    code: 0
+    comments: 221806
+    blanks: 1489
+    files: 58
+total:
+  code: 1019295
+  comments: 267923
+  blanks: 23387
+  files: 898
 ---
 date: "2026-08-24"
 repo:
