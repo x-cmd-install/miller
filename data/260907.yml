@@ -5,25 +5,25 @@ about:
   head: 9732b70
   archived: false
   latestVersion: "v6.21.0"
-  collectedAt: 2026-09-07T06:02:25Z
+  collectedAt: 2026-09-07T18:29:19Z
 timeline:
   created: 2015-05-03
   lastCommit: 2026-09-01
   lastRelease: 2026-08-10
 popularity:
-  star: 10009
+  star: 10010
   watcher: 61
   fork: 241
   release: 73
   contributor: 67
-  pullRequest: 1312
+  pullRequest: 1313
   issue: 724
 recent:
   last30d:
     since: 2026-08-08
     release: 1
     mergedPR: 10
-    openPR: 1
+    openPR: 2
     closedIssue: 0
     openIssue: 3
     commit: 12
@@ -31,7 +31,7 @@ recent:
     since: 2026-07-09
     release: 1
     mergedPR: 46
-    openPR: 4
+    openPR: 5
     closedIssue: 2
     openIssue: 4
     commit: 47
@@ -39,7 +39,7 @@ recent:
     since: 2026-06-09
     release: 3
     mergedPR: 140
-    openPR: 10
+    openPR: 11
     closedIssue: 7
     openIssue: 5
     commit: 164
@@ -47,7 +47,7 @@ recent:
     since: 2026-03-11
     release: 4
     mergedPR: 192
-    openPR: 10
+    openPR: 11
     closedIssue: 16
     openIssue: 5
     commit: 216
@@ -55,7 +55,7 @@ recent:
     since: 2025-09-12
     release: 6
     mergedPR: 305
-    openPR: 10
+    openPR: 11
     closedIssue: 20
     openIssue: 6
     commit: 345
@@ -63,20 +63,20 @@ recent:
     since: 2024-09-17
     release: 9
     mergedPR: 467
-    openPR: 10
+    openPR: 11
     closedIssue: 64
     openIssue: 10
     commit: 528
 total:
   release: 73
   mergedPR: 1240
-  openPR: 10
+  openPR: 11
   closedIssue: 663
   openIssue: 61
   commit: 9419
 ---
 path: /home/runner/.x-repo/github.com/johnkerl/miller
-collectedAt: 2026-09-07T06:03:07Z
+collectedAt: 2026-09-07T18:29:44Z
 loc:
   Json:
     code: 715955
@@ -309,7 +309,7 @@ checks:
       - 'Info: all commits (25) are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T06:03:11+00:00
+  collectedAt: 2026-09-07T18:29:46+00:00
   platform:
     darwin/arm64:
       name:  miller-6.21.0-darwin-arm64.tar.gz
