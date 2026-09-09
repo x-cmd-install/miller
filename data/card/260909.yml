@@ -2,25 +2,25 @@ about:
   description: "Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON"
   license: NOASSERTION
   homepage: https://miller.readthedocs.io
-  head: f126dd9
+  head: a20abb2
   archived: false
   latestVersion: "v6.21.0"
   latestRelease: "v6.21.0"
   latestPrerelease: "v5.10.4"
-  collectedAt: 2026-09-09T06:04:36Z
+  collectedAt: 2026-09-09T20:40:21Z
 timeline:
   created: 2015-05-03
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-08-10
   lastRelease: 2026-08-10
   lastPrerelease: 2022-11-27
 popularity:
-  star: 10013
+  star: 10014
   watcher: 61
-  fork: 241
+  fork: 242
   release: 73
   contributor: 67
-  pullRequest: 1313
+  pullRequest: 1317
   issue: 724
 language:
   Go: 19202533
@@ -42,61 +42,61 @@ recent:
   last30d:
     since: 2026-08-10
     release: 1
-    mergedPR: 10
-    openPR: 1
+    mergedPR: 13
+    openPR: 2
     closedIssue: 0
     openIssue: 3
-    commit: 13
+    commit: 0
   last60d:
     since: 2026-07-11
     release: 1
-    mergedPR: 47
-    openPR: 4
+    mergedPR: 50
+    openPR: 5
     closedIssue: 2
     openIssue: 4
-    commit: 48
+    commit: 0
   last90d:
     since: 2026-06-11
     release: 3
-    mergedPR: 141
-    openPR: 10
+    mergedPR: 144
+    openPR: 11
     closedIssue: 7
     openIssue: 5
-    commit: 165
+    commit: 0
   last180d:
     since: 2026-03-13
     release: 4
-    mergedPR: 191
-    openPR: 10
+    mergedPR: 194
+    openPR: 11
     closedIssue: 16
     openIssue: 5
-    commit: 217
+    commit: 0
   last360d:
     since: 2025-09-14
     release: 6
-    mergedPR: 306
-    openPR: 10
+    mergedPR: 309
+    openPR: 11
     closedIssue: 20
     openIssue: 6
-    commit: 346
+    commit: 0
   last720d:
     since: 2024-09-19
     release: 9
-    mergedPR: 467
-    openPR: 10
+    mergedPR: 470
+    openPR: 11
     closedIssue: 62
     openIssue: 9
-    commit: 528
+    commit: 531
 total:
   release: 73
-  mergedPR: 1241
-  openPR: 10
+  mergedPR: 1244
+  openPR: 11
   closedIssue: 663
   openIssue: 61
-  commit: 9420
+  commit: 9423
 ---
 path: /home/runner/.x-repo/github.com/johnkerl/miller
-collectedAt: 2026-09-09T06:05:09Z
+collectedAt: 2026-09-09T20:41:12Z
 loc:
   Json:
     code: 715955
