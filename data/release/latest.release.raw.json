@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 5960002,
       "digest": "sha256:22daf43f3afc7c497da0b9480a0d4ef0d39c9bf68b2460068dd0187ed44f7b80",
-      "download_count": 4503,
+      "download_count": 4518,
       "created_at": "2026-08-10T13:56:04Z",
       "updated_at": "2026-08-10T13:56:05Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-amd64.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 5304155,
       "digest": "sha256:3f4bc15993da3039e5aad1f67a114817db5d933a1cde26b6c2edf867de467d27",
-      "download_count": 337,
+      "download_count": 338,
       "created_at": "2026-08-10T13:56:05Z",
       "updated_at": "2026-08-10T13:56:05Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-arm64.tar.gz"
