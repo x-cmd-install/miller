@@ -7,7 +7,7 @@ about:
   latestVersion: "v6.21.0"
   latestRelease: "v6.21.0"
   latestPrerelease: "v5.10.4"
-  collectedAt: 2026-09-11T06:04:17Z
+  collectedAt: 2026-09-11T18:52:26Z
 timeline:
   created: 2015-05-03
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-10
   lastPrerelease: 2022-11-27
 popularity:
-  star: 10016
+  star: 10017
   watcher: 61
   fork: 242
   release: 73
@@ -96,7 +96,7 @@ total:
   commit: 9423
 ---
 path: /home/runner/.x-repo/github.com/johnkerl/miller
-collectedAt: 2026-09-11T06:04:45Z
+collectedAt: 2026-09-11T18:52:54Z
 loc:
   Json:
     code: 715955
