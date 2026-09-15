@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3318,
       "digest": "sha256:3beceba0ea5dbb08a6d2c29dbd84506a891b1af23581eca3138e4550bd53cac4",
-      "download_count": 114,
+      "download_count": 117,
       "created_at": "2026-08-10T13:56:11Z",
       "updated_at": "2026-08-10T13:56:11Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-checksums.txt"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6049474,
       "digest": "sha256:0b02be2a7166b56bad29b0446e2a2cc8c47269410e6af2841174aa1854fde53a",
-      "download_count": 212,
+      "download_count": 214,
       "created_at": "2026-08-10T13:56:05Z",
       "updated_at": "2026-08-10T13:56:06Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-darwin-amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 5521955,
       "digest": "sha256:e172a045a813de63753ddbe043208785e944819b082526ddd927559eeb0ad176",
-      "download_count": 309,
+      "download_count": 313,
       "created_at": "2026-08-10T13:56:07Z",
       "updated_at": "2026-08-10T13:56:07Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-darwin-arm64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 5927704,
       "digest": "sha256:c787f08ef78323141bfc8bc85da68c3c66760ec906954e82cb633ecda2d16c62",
-      "download_count": 155,
+      "download_count": 156,
       "created_at": "2026-08-10T13:56:06Z",
       "updated_at": "2026-08-10T13:56:06Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-freebsd-amd64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 5593468,
       "digest": "sha256:4a3509b9e6ed553a7ae1286080b119f891ad0e3da3eac56e76a1ebfb9bae7e69",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-08-10T13:56:04Z",
       "updated_at": "2026-08-10T13:56:05Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-386.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 5950548,
       "digest": "sha256:93a3d96275107cfba1a8d62816ddef685d2e8d6e2d41cbcd0cac37939633a738",
-      "download_count": 518,
+      "download_count": 521,
       "created_at": "2026-08-10T13:56:09Z",
       "updated_at": "2026-08-10T13:56:10Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-amd64.deb"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 5960002,
       "digest": "sha256:22daf43f3afc7c497da0b9480a0d4ef0d39c9bf68b2460068dd0187ed44f7b80",
-      "download_count": 5084,
+      "download_count": 5259,
       "created_at": "2026-08-10T13:56:04Z",
       "updated_at": "2026-08-10T13:56:05Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-amd64.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 5293046,
       "digest": "sha256:0e79a5448ed36d19f2a67ec1e185c56c5e5a6bbab57451615de8c97fbdccfa8e",
-      "download_count": 474,
+      "download_count": 477,
       "created_at": "2026-08-10T13:56:08Z",
       "updated_at": "2026-08-10T13:56:08Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-arm64.deb"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 5304155,
       "digest": "sha256:3f4bc15993da3039e5aad1f67a114817db5d933a1cde26b6c2edf867de467d27",
-      "download_count": 369,
+      "download_count": 374,
       "created_at": "2026-08-10T13:56:05Z",
       "updated_at": "2026-08-10T13:56:05Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-arm64.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 5282528,
       "digest": "sha256:4e5276bcdde2fed959b37ec3a8b76d4c224561910d291c76c48d9ea0e7130746",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-08-10T13:56:10Z",
       "updated_at": "2026-08-10T13:56:11Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-ppc64le.rpm"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 5884565,
       "digest": "sha256:042ab83e1b7dae4d5cd37517efd52f7e2d034a74211f3b07d87e5d4e97e3d957",
-      "download_count": 123,
+      "download_count": 125,
       "created_at": "2026-08-10T13:56:06Z",
       "updated_at": "2026-08-10T13:56:06Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-windows-386.zip"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 6109224,
       "digest": "sha256:e4730fafce659db22c619c0fde51eba050edc584a0804fd2c8b2883c8f8d8250",
-      "download_count": 1037,
+      "download_count": 1065,
       "created_at": "2026-08-10T13:56:05Z",
       "updated_at": "2026-08-10T13:56:06Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-windows-amd64.zip"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 5369064,
       "digest": "sha256:2f50142276a2058d00742335842831c987cb1961390a7ce7084eee2da6e7f7d5",
-      "download_count": 185,
+      "download_count": 186,
       "created_at": "2026-08-10T13:56:07Z",
       "updated_at": "2026-08-10T13:56:07Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-windows-arm64.zip"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 3481499,
       "digest": "sha256:d05b6edb506c16d448e9c66308b0169c80c93e0f3f2ef6ad248d22520684990f",
-      "download_count": 89,
+      "download_count": 97,
       "created_at": "2026-08-10T13:48:38Z",
       "updated_at": "2026-08-10T13:48:38Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0.tar.gz"
