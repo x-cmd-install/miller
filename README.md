@@ -30,7 +30,7 @@ Overall score: **4.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 2/13 approved changesets -- score normalized to 1
+- **Code-Review** (1/10) — Found 2/12 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,018 · **Forks**: 242 · **Open issues**: 724 · **Contributors**: 67
+- **Stars**: 10,018 · **Forks**: 243 · **Open issues**: 724 · **Contributors**: 67
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 16 | 2 | 0 | 2 | 13 |
-| last60d | 2026-07-17 | 1 | 28 | 2 | 0 | 3 | 32 |
-| 90d | 2026-06-17 | 3 | 144 | 11 | 7 | 5 | 149 |
-| last180d | 2026-03-19 | 4 | 195 | 11 | 16 | 5 | 221 |
-| 360d | 2025-09-20 | 6 | 313 | 11 | 20 | 6 | 353 |
-| last720d | 2024-09-25 | 9 | 470 | 11 | 59 | 9 | 531 |
+| 30d | 2026-08-17 | 0 | 13 | 2 | 0 | 2 | 13 |
+| last60d | 2026-07-18 | 1 | 28 | 2 | 0 | 3 | 32 |
+| 90d | 2026-06-18 | 3 | 144 | 11 | 7 | 5 | 149 |
+| last180d | 2026-03-20 | 4 | 195 | 11 | 16 | 5 | 221 |
+| 360d | 2025-09-21 | 6 | 313 | 11 | 20 | 6 | 353 |
+| last720d | 2024-09-26 | 9 | 469 | 11 | 59 | 9 | 530 |
 
 ## Release assets
 
@@ -116,4 +116,4 @@ Install metadata for miller lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:33:53Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:34:12Z._
