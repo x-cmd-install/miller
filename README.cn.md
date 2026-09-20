@@ -4,7 +4,7 @@
 
 Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 
-![miller](https://repo.x-cmd.io/miller.svg?lang=zh)
+[![x-cmd/install — miller Code Quality Monitoring Repo Card](https://repo.x-cmd.io/miller.svg?lang=zh)](https://x-cmd.com/install/miller)
 
 ## 安装
 
@@ -48,7 +48,7 @@ x install miller
 
 ## 流行度
 
-- **Star**: 10,018 · **Fork**: 243 · **开放 issue**: 724 · **贡献者**: 67
+- **Star**: 10,021 · **Fork**: 243 · **开放 issue**: 724 · **贡献者**: 67
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install miller
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 12 | 2 | 0 | 2 | 13 |
-| last60d | 2026-07-20 | 1 | 27 | 2 | 0 | 3 | 32 |
-| 90d | 2026-06-20 | 2 | 132 | 11 | 6 | 5 | 149 |
-| last180d | 2026-03-22 | 4 | 195 | 11 | 16 | 5 | 221 |
-| 360d | 2025-09-23 | 6 | 313 | 11 | 20 | 6 | 353 |
-| last720d | 2024-09-28 | 9 | 469 | 11 | 59 | 9 | 529 |
+| 30d | 2026-08-21 | 0 | 11 | 2 | 0 | 2 | 13 |
+| last60d | 2026-07-22 | 1 | 24 | 2 | 0 | 3 | 32 |
+| 90d | 2026-06-22 | 2 | 130 | 11 | 5 | 4 | 149 |
+| last180d | 2026-03-24 | 4 | 193 | 11 | 15 | 5 | 221 |
+| 360d | 2025-09-25 | 6 | 311 | 11 | 20 | 5 | 353 |
+| last720d | 2024-09-30 | 9 | 469 | 11 | 59 | 9 | 529 |
 
 ## Release 资产
 
@@ -116,4 +116,4 @@ miller 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:16:49Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:22:05Z._
