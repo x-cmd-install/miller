@@ -4,7 +4,7 @@
 
 Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 
-[![x-cmd/install — miller Code Quality Monitoring Repo Card](https://repo.x-cmd.io/miller.svg)](https://x-cmd.com/install/miller)
+[![x-cmd/install — miller Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/miller.svg)](https://x-cmd.com/install/miller)
 
 ## Install
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 11 | 3 | 0 | 2 | 10 |
-| last60d | 2026-07-24 | 1 | 23 | 3 | 0 | 3 | 29 |
-| 90d | 2026-06-24 | 2 | 127 | 12 | 5 | 4 | 137 |
-| last180d | 2026-03-26 | 4 | 193 | 12 | 15 | 5 | 219 |
-| 360d | 2025-09-27 | 6 | 311 | 12 | 20 | 5 | 350 |
-| last720d | 2024-10-02 | 9 | 466 | 12 | 59 | 9 | 528 |
+| 30d | 2026-08-24 | 0 | 10 | 3 | 0 | 2 | 10 |
+| last60d | 2026-07-25 | 1 | 23 | 3 | 0 | 3 | 29 |
+| 90d | 2026-06-25 | 2 | 126 | 12 | 5 | 4 | 137 |
+| last180d | 2026-03-27 | 4 | 193 | 12 | 14 | 5 | 219 |
+| 360d | 2025-09-28 | 6 | 311 | 12 | 20 | 5 | 350 |
+| last720d | 2024-10-03 | 9 | 465 | 12 | 59 | 9 | 526 |
 
 ## Release assets
 
@@ -116,4 +116,4 @@ Install metadata for miller lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:22:45Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:38:59Z._
