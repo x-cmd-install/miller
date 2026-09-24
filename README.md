@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v6.21.0` (2026-08-10)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-23
 - **Assets in release**: 37
 
 ## Popularity
 
-- **Stars**: 10,024 · **Forks**: 243 · **Open issues**: 724 · **Contributors**: 67
+- **Stars**: 10,027 · **Forks**: 243 · **Open issues**: 724 · **Contributors**: 67
 
 ## Totals (cumulative)
 
-- **Releases**: 73 · **Merged PRs**: 1248 · **Open PRs**: 12 · **Closed issues**: 663 · **Open issues**: 61 · **Commits**: 9427
+- **Releases**: 73 · **Merged PRs**: 1249 · **Open PRs**: 11 · **Closed issues**: 663 · **Open issues**: 61 · **Commits**: 9428
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 10 | 3 | 0 | 2 | 10 |
-| last60d | 2026-07-25 | 1 | 23 | 3 | 0 | 3 | 29 |
-| 90d | 2026-06-25 | 2 | 126 | 12 | 5 | 4 | 137 |
-| last180d | 2026-03-27 | 4 | 193 | 12 | 14 | 5 | 219 |
-| 360d | 2025-09-28 | 6 | 311 | 12 | 20 | 5 | 350 |
-| last720d | 2024-10-03 | 9 | 465 | 12 | 59 | 9 | 526 |
+| 30d | 2026-08-25 | 0 | 11 | 2 | 0 | 2 | 11 |
+| last60d | 2026-07-26 | 1 | 24 | 2 | 0 | 3 | 30 |
+| 90d | 2026-06-26 | 2 | 125 | 11 | 5 | 4 | 138 |
+| last180d | 2026-03-28 | 4 | 194 | 11 | 14 | 5 | 220 |
+| 360d | 2025-09-29 | 6 | 311 | 11 | 20 | 5 | 351 |
+| last720d | 2024-10-04 | 9 | 465 | 11 | 57 | 9 | 527 |
 
 ## Release assets
 
@@ -116,4 +116,4 @@ Install metadata for miller lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T06:38:59Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:50:20Z._
