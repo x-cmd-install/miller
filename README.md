@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 1 | 15 | 0 | 2 | 1 | 15 |
-| last60d | 2026-08-08 | 2 | 27 | 0 | 3 | 3 | 32 |
-| 90d | 2026-07-09 | 2 | 63 | 3 | 5 | 4 | 72 |
-| last180d | 2026-04-10 | 5 | 194 | 9 | 14 | 5 | 222 |
-| 360d | 2025-10-12 | 7 | 314 | 9 | 23 | 5 | 355 |
-| last720d | 2024-10-17 | 9 | 457 | 9 | 56 | 9 | 514 |
+| 30d | 2026-09-08 | 1 | 15 | 0 | 2 | 1 | 15 |
+| last60d | 2026-08-09 | 2 | 27 | 0 | 3 | 3 | 32 |
+| 90d | 2026-07-10 | 2 | 63 | 3 | 5 | 4 | 72 |
+| last180d | 2026-04-11 | 5 | 194 | 9 | 14 | 5 | 222 |
+| 360d | 2025-10-13 | 7 | 313 | 9 | 23 | 5 | 355 |
+| last720d | 2024-10-18 | 9 | 457 | 9 | 56 | 9 | 513 |
 
 ## Release assets
 
@@ -116,4 +116,4 @@ Install metadata for miller lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T07:04:24Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T07:17:13Z._
