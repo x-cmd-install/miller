@@ -30,7 +30,7 @@ Overall score: **4.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 4/15 approved changesets -- score normalized to 2
+- **Code-Review** (2/10) — Found 3/13 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v6.22.0` (2026-09-25)
-- **Last commit**: 2026-10-19
+- **Last commit**: 2026-10-21
 - **Assets in release**: 37
 
 ## Popularity
 
-- **Stars**: 10,049 · **Forks**: 247 · **Open issues**: 728 · **Contributors**: 69
+- **Stars**: 10,049 · **Forks**: 248 · **Open issues**: 728 · **Contributors**: 69
 
 ## Totals (cumulative)
 
-- **Releases**: 74 · **Merged PRs**: 1264 · **Open PRs**: 11 · **Closed issues**: 667 · **Open issues**: 61 · **Commits**: 9445
+- **Releases**: 74 · **Merged PRs**: 1265 · **Open PRs**: 12 · **Closed issues**: 667 · **Open issues**: 61 · **Commits**: 9446
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 13 | 2 | 2 | 2 | 17 |
-| last60d | 2026-08-22 | 1 | 27 | 2 | 3 | 3 | 28 |
-| 90d | 2026-07-23 | 2 | 40 | 2 | 3 | 4 | 48 |
-| last180d | 2026-04-24 | 4 | 190 | 11 | 12 | 6 | 212 |
-| 360d | 2025-10-26 | 7 | 318 | 11 | 22 | 6 | 358 |
-| last720d | 2024-10-31 | 9 | 452 | 11 | 53 | 10 | 508 |
+| 30d | 2026-09-22 | 1 | 14 | 3 | 2 | 2 | 18 |
+| last60d | 2026-08-23 | 1 | 28 | 3 | 3 | 3 | 29 |
+| 90d | 2026-07-24 | 2 | 40 | 3 | 3 | 4 | 49 |
+| last180d | 2026-04-25 | 4 | 191 | 12 | 12 | 6 | 213 |
+| 360d | 2025-10-27 | 7 | 317 | 12 | 22 | 6 | 359 |
+| last720d | 2024-11-01 | 9 | 453 | 12 | 53 | 10 | 509 |
 
 ## Release assets
 
@@ -116,4 +116,4 @@ Install metadata for miller lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:54:01Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:55:54Z._
