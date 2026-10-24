@@ -1,23 +1,14 @@
-- repo: gnuguix
+- repo: manjaro_testing
+  subrepo: extra
   srcname: miller
   binname: miller
   visiblename: miller
-  version: 6.17.0
-  origversion: null
-  status: outdated
-  summary: Text-formatted data processing tool
-- repo: aosc
-  srcname: app-utils/miller
-  binname: miller
-  visiblename: miller
-  version: 6.21.0
-  origversion: null
-  status: outdated
+  version: 6.22.0
+  origversion: 6.22.0-1
+  status: newest
   summary: Name-indexed data processing tool
-  maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - utils
+  licenses:
+    - BSD-2-Clause
 - repo: alpine_3_17
   subrepo: community
   srcname: miller
@@ -268,6 +259,18 @@
     - BSD-2-Clause
   categories:
     - Text tools
+- repo: aosc
+  srcname: app-utils/miller
+  binname: miller
+  visiblename: miller
+  version: 6.21.0
+  origversion: null
+  status: outdated
+  summary: Name-indexed data processing tool
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - utils
 - repo: arch
   subrepo: extra
   srcname: miller
@@ -335,19 +338,6 @@
     - misc
 - repo: debian_13
   subrepo: trixie/main
-  srcname: miller
-  binnames:
-    - miller
-  visiblename: miller
-  version: 6.13.0
-  origversion: 6.13.0-1
-  status: outdated
-  maintainers:
-    - skitt@debian.org
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot-updates/main
   srcname: miller
   binnames:
     - miller
@@ -464,6 +454,17 @@
     - BSD
   categories:
     - Unspecified
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: miller
+  binname: miller
+  visiblename: miller
+  version: 6.22.0
+  origversion: 6.22.0-1
+  status: newest
+  summary: Name-indexed data processing tool
+  licenses:
+    - BSD-2-Clause
 - repo: fedora_40
   subrepo: release
   srcname: miller
@@ -635,6 +636,14 @@
     - BSD-2
   categories:
     - sys-apps
+- repo: gnuguix
+  srcname: miller
+  binname: miller
+  visiblename: miller
+  version: 6.17.0
+  origversion: null
+  status: outdated
+  summary: Text-formatted data processing tool
 - repo: homebrew
   srcname: miller
   visiblename: miller
@@ -728,28 +737,6 @@
   version: 6.21.0
   origversion: 6.21.0-1
   status: outdated
-  summary: Name-indexed data processing tool
-  licenses:
-    - BSD-2-Clause
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: miller
-  binname: miller
-  visiblename: miller
-  version: 6.22.0
-  origversion: 6.22.0-1
-  status: newest
-  summary: Name-indexed data processing tool
-  licenses:
-    - BSD-2-Clause
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: miller
-  binname: miller
-  visiblename: miller
-  version: 6.22.0
-  origversion: 6.22.0-1
-  status: newest
   summary: Name-indexed data processing tool
   licenses:
     - BSD-2-Clause
@@ -901,6 +888,19 @@
   visiblename: miller
   version: 5.10.0
   origversion: 5.10.0-1
+  status: outdated
+  maintainers:
+    - skitt@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: miller
+  binnames:
+    - miller
+  visiblename: miller
+  version: 6.13.0
+  origversion: 6.13.0-1
   status: outdated
   maintainers:
     - skitt@debian.org
@@ -1140,19 +1140,6 @@
   categories:
     - universe/misc
 - repo: ubuntu_24_04
-  subrepo: noble-updates/universe
-  srcname: miller
-  binnames:
-    - miller
-  visiblename: miller
-  version: 6.11.0
-  origversion: 6.11.0-1ubuntu0.3
-  status: outdated
-  maintainers:
-    - ubuntu-devel-discuss@lists.ubuntu.com
-  categories:
-    - universe/misc
-- repo: ubuntu_24_04
   subrepo: noble/universe
   srcname: miller
   binnames:
@@ -1163,6 +1150,19 @@
   status: outdated
   maintainers:
     - skitt@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_24_04
+  subrepo: noble-updates/universe
+  srcname: miller
+  binnames:
+    - miller
+  visiblename: miller
+  version: 6.11.0
+  origversion: 6.11.0-1ubuntu0.3
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
   categories:
     - universe/misc
 - repo: ubuntu_25_04
