@@ -1,5 +1,29 @@
-- repo: parrot
-  subrepo: parrot/main
+- repo: nix_stable_25_05
+  srcname: miller
+  visiblename: miller
+  version: 6.13.0
+  origversion: null
+  status: outdated
+  summary: Like awk, sed, cut, join, and sort for data formats such as CSV, TSV, JSON, JSON Lines, and positionally-indexed
+  maintainers:
+    - mstarzyk@gmail.com
+  licenses:
+    - BSD-2-Clause
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: miller
+  binnames:
+    - miller
+  visiblename: miller
+  version: 6.6.0
+  origversion: 6.6.0-2
+  status: outdated
+  maintainers:
+    - skitt@debian.org
+  categories:
+    - misc
+- repo: raspbian_stable
+  subrepo: main
   srcname: miller
   binnames:
     - miller
@@ -11,6 +35,330 @@
     - skitt@debian.org
   categories:
     - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: miller
+  binnames:
+    - miller
+  visiblename: miller
+  version: 6.18.1
+  origversion: 6.18.1-1
+  status: outdated
+  maintainers:
+    - skitt@debian.org
+  categories:
+    - misc
+- repo: ubuntu_24_04
+  subrepo: noble/universe
+  srcname: miller
+  binnames:
+    - miller
+  visiblename: miller
+  version: 6.11.0
+  origversion: 6.11.0-1
+  status: outdated
+  maintainers:
+    - skitt@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: miller
+  binnames:
+    - miller
+  visiblename: miller
+  version: 6.13.0
+  origversion: 6.13.0-1
+  status: outdated
+  maintainers:
+    - skitt@debian.org
+  categories:
+    - universe/misc
+- repo: alpine_3_17
+  subrepo: community
+  srcname: miller
+  binname: miller-doc
+  visiblename: miller-doc
+  version: 6.4.0
+  origversion: 6.4.0-r7
+  status: outdated
+  summary: Name-indexed data processing tool (documentation)
+  maintainers:
+    - kerl.john.r@gmail.com
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_17
+  subrepo: community
+  srcname: miller
+  binname: miller
+  visiblename: miller
+  version: 6.4.0
+  origversion: 6.4.0-r7
+  status: outdated
+  summary: Name-indexed data processing tool
+  maintainers:
+    - kerl.john.r@gmail.com
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_18
+  subrepo: community
+  srcname: miller
+  binname: miller
+  visiblename: miller
+  version: 6.7.0
+  origversion: 6.7.0-r6
+  status: outdated
+  summary: Name-indexed data processing tool
+  maintainers:
+    - kerl.john.r@gmail.com
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_18
+  subrepo: community
+  srcname: miller
+  binname: miller-doc
+  visiblename: miller-doc
+  version: 6.7.0
+  origversion: 6.7.0-r6
+  status: outdated
+  summary: Name-indexed data processing tool (documentation)
+  maintainers:
+    - kerl.john.r@gmail.com
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_19
+  subrepo: community
+  srcname: miller
+  binname: miller
+  visiblename: miller
+  version: 6.9.0
+  origversion: 6.9.0-r6
+  status: outdated
+  summary: Name-indexed data processing tool
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_19
+  subrepo: community
+  srcname: miller
+  binname: miller-doc
+  visiblename: miller-doc
+  version: 6.9.0
+  origversion: 6.9.0-r6
+  status: outdated
+  summary: Name-indexed data processing tool (documentation)
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_20
+  subrepo: community
+  srcname: miller
+  binname: miller
+  visiblename: miller
+  version: 6.12.0
+  origversion: 6.12.0-r4
+  status: outdated
+  summary: Name-indexed data processing tool
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - BSD-2-Clause
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: miller
+  binname: miller
+  visiblename: miller
+  version: 6.22.0
+  origversion: 6.22.0-1
+  status: newest
+  summary: Name-indexed data processing tool
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_20
+  subrepo: community
+  srcname: miller
+  binname: miller-doc
+  visiblename: miller-doc
+  version: 6.12.0
+  origversion: 6.12.0-r4
+  status: outdated
+  summary: Name-indexed data processing tool (documentation)
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_21
+  subrepo: community
+  srcname: miller
+  binname: miller
+  visiblename: miller
+  version: 6.13.0
+  origversion: 6.13.0-r5
+  status: outdated
+  summary: Name-indexed data processing tool
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_21
+  subrepo: community
+  srcname: miller
+  binname: miller-doc
+  visiblename: miller-doc
+  version: 6.13.0
+  origversion: 6.13.0-r5
+  status: outdated
+  summary: Name-indexed data processing tool (documentation)
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_22
+  subrepo: community
+  srcname: miller
+  binname: miller
+  visiblename: miller
+  version: 6.13.0
+  origversion: 6.13.0-r10
+  status: outdated
+  summary: Name-indexed data processing tool
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_22
+  subrepo: community
+  srcname: miller
+  binname: miller-doc
+  visiblename: miller-doc
+  version: 6.13.0
+  origversion: 6.13.0-r10
+  status: outdated
+  summary: Name-indexed data processing tool (documentation)
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_23
+  subrepo: community
+  srcname: miller
+  binname: miller
+  visiblename: miller
+  version: 6.15.0
+  origversion: 6.15.0-r8
+  status: outdated
+  summary: Name-indexed data processing tool
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_23
+  subrepo: community
+  srcname: miller
+  binname: miller-doc
+  visiblename: miller-doc
+  version: 6.15.0
+  origversion: 6.15.0-r8
+  status: outdated
+  summary: Name-indexed data processing tool (documentation)
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_24
+  subrepo: community
+  srcname: miller
+  binname: miller
+  visiblename: miller
+  version: 6.16.0
+  origversion: 6.16.0-r7
+  status: outdated
+  summary: Name-indexed data processing tool
+  maintainers:
+    - wanghao03@loongson.cn
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_24
+  subrepo: community
+  srcname: miller
+  binname: miller-doc
+  visiblename: miller-doc
+  version: 6.16.0
+  origversion: 6.16.0-r7
+  status: outdated
+  summary: Name-indexed data processing tool (documentation)
+  maintainers:
+    - wanghao03@loongson.cn
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_edge
+  subrepo: community
+  srcname: miller
+  binname: miller
+  visiblename: miller
+  version: 6.16.0
+  origversion: 6.16.0-r6
+  status: outdated
+  summary: Name-indexed data processing tool
+  maintainers:
+    - wanghao03@loongson.cn
+  licenses:
+    - BSD-2-Clause
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: miller
+  binnames:
+    - miller
+  visiblename: miller
+  version: 6.13.0
+  origversion: 6.13.0-1
+  status: outdated
+  maintainers:
+    - skitt@debian.org
+  categories:
+    - universe/misc
+- repo: nix_stable_24_05
+  srcname: miller
+  visiblename: miller
+  version: 6.12.0
+  origversion: null
+  status: outdated
+  summary: Like awk, sed, cut, join, and sort for data formats such as CSV, TSV, JSON, JSON Lines, and positionally-indexed
+  maintainers:
+    - mstarzyk@gmail.com
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_edge
+  subrepo: community
+  srcname: miller
+  binname: miller-doc
+  visiblename: miller-doc
+  version: 6.16.0
+  origversion: 6.16.0-r6
+  status: outdated
+  summary: Name-indexed data processing tool (documentation)
+  maintainers:
+    - wanghao03@loongson.cn
+  licenses:
+    - BSD-2-Clause
+- repo: altsisyphus
+  srcname: miller
+  binnames:
+    - miller
+    - miller-debuginfo
+  visiblename: miller
+  version: 6.20.2
+  origversion: 6.20.2-alt1
+  status: outdated
+  summary: Name-indexed data processing tool
+  maintainers:
+    - gerben@altlinux.org
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Text tools
 - repo: aosc
   srcname: app-utils/miller
   binname: miller
@@ -23,6 +371,29 @@
     - fallback-mnt-aosc@repology
   categories:
     - utils
+- repo: arch
+  subrepo: extra
+  srcname: miller
+  binname: miller
+  visiblename: miller
+  version: 6.22.0
+  origversion: 6.22.0-1
+  status: newest
+  summary: Name-indexed data processing tool
+  licenses:
+    - BSD-2-Clause
+- repo: aur
+  srcname: miller-git
+  binname: miller-git
+  visiblename: miller-git
+  version: 6.13.0.r17.g05aa16cfc
+  origversion: 6.13.0.r17.g05aa16cfc-1
+  status: rolling
+  summary: sed, awk, cut, join, and sort for name-indexed data such as CSV and tabular JSON.
+  maintainers:
+    - severach@aur
+  licenses:
+    - BSD-2-Clause
 - repo: chocolatey
   binname: miller
   visiblename: Miller
@@ -65,325 +436,6 @@
     - skitt@debian.org
   categories:
     - misc
-- repo: kali_rolling
-  subrepo: main
-  srcname: miller
-  binnames:
-    - miller
-  visiblename: miller
-  version: 6.18.1
-  origversion: 6.18.1-1
-  status: outdated
-  maintainers:
-    - skitt@debian.org
-  categories:
-    - misc
-- repo: pardus_21
-  subrepo: main
-  srcname: miller
-  binnames:
-    - miller
-  visiblename: miller
-  version: 5.10.0
-  origversion: 5.10.0-1
-  status: outdated
-  maintainers:
-    - skitt@debian.org
-  categories:
-    - misc
-- repo: arch
-  subrepo: extra
-  srcname: miller
-  binname: miller
-  visiblename: miller
-  version: 6.22.0
-  origversion: 6.22.0-1
-  status: newest
-  summary: Name-indexed data processing tool
-  licenses:
-    - BSD-2-Clause
-- repo: homebrew
-  srcname: miller
-  visiblename: miller
-  version: 6.22.0
-  origversion: null
-  status: newest
-  summary: Like sed, awk, cut, join & sort for name-indexed data such as CSV
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: miller
-  binnames:
-    - miller
-  visiblename: miller
-  version: 6.13.0
-  origversion: 6.13.0-1
-  status: outdated
-  maintainers:
-    - skitt@debian.org
-  categories:
-    - misc
-- repo: alpine_3_17
-  subrepo: community
-  srcname: miller
-  binname: miller-doc
-  visiblename: miller-doc
-  version: 6.4.0
-  origversion: 6.4.0-r7
-  status: outdated
-  summary: Name-indexed data processing tool (documentation)
-  maintainers:
-    - kerl.john.r@gmail.com
-  licenses:
-    - BSD-2-Clause
-- repo: alpine_3_17
-  subrepo: community
-  srcname: miller
-  binname: miller
-  visiblename: miller
-  version: 6.4.0
-  origversion: 6.4.0-r7
-  status: outdated
-  summary: Name-indexed data processing tool
-  maintainers:
-    - kerl.john.r@gmail.com
-  licenses:
-    - BSD-2-Clause
-- repo: alpine_3_18
-  subrepo: community
-  srcname: miller
-  binname: miller
-  visiblename: miller
-  version: 6.7.0
-  origversion: 6.7.0-r6
-  status: outdated
-  summary: Name-indexed data processing tool
-  maintainers:
-    - kerl.john.r@gmail.com
-  licenses:
-    - BSD-2-Clause
-- repo: alpine_3_18
-  subrepo: community
-  srcname: miller
-  binname: miller-doc
-  visiblename: miller-doc
-  version: 6.7.0
-  origversion: 6.7.0-r6
-  status: outdated
-  summary: Name-indexed data processing tool (documentation)
-  maintainers:
-    - kerl.john.r@gmail.com
-  licenses:
-    - BSD-2-Clause
-- repo: alpine_3_19
-  subrepo: community
-  srcname: miller
-  binname: miller
-  visiblename: miller
-  version: 6.9.0
-  origversion: 6.9.0-r6
-  status: outdated
-  summary: Name-indexed data processing tool
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - BSD-2-Clause
-- repo: alpine_3_19
-  subrepo: community
-  srcname: miller
-  binname: miller-doc
-  visiblename: miller-doc
-  version: 6.9.0
-  origversion: 6.9.0-r6
-  status: outdated
-  summary: Name-indexed data processing tool (documentation)
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - BSD-2-Clause
-- repo: alpine_3_20
-  subrepo: community
-  srcname: miller
-  binname: miller
-  visiblename: miller
-  version: 6.12.0
-  origversion: 6.12.0-r4
-  status: outdated
-  summary: Name-indexed data processing tool
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - BSD-2-Clause
-- repo: alpine_3_20
-  subrepo: community
-  srcname: miller
-  binname: miller-doc
-  visiblename: miller-doc
-  version: 6.12.0
-  origversion: 6.12.0-r4
-  status: outdated
-  summary: Name-indexed data processing tool (documentation)
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - BSD-2-Clause
-- repo: alpine_3_21
-  subrepo: community
-  srcname: miller
-  binname: miller
-  visiblename: miller
-  version: 6.13.0
-  origversion: 6.13.0-r5
-  status: outdated
-  summary: Name-indexed data processing tool
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - BSD-2-Clause
-- repo: alpine_3_21
-  subrepo: community
-  srcname: miller
-  binname: miller-doc
-  visiblename: miller-doc
-  version: 6.13.0
-  origversion: 6.13.0-r5
-  status: outdated
-  summary: Name-indexed data processing tool (documentation)
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - BSD-2-Clause
-- repo: alpine_3_22
-  subrepo: community
-  srcname: miller
-  binname: miller
-  visiblename: miller
-  version: 6.13.0
-  origversion: 6.13.0-r10
-  status: outdated
-  summary: Name-indexed data processing tool
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - BSD-2-Clause
-- repo: alpine_3_22
-  subrepo: community
-  srcname: miller
-  binname: miller-doc
-  visiblename: miller-doc
-  version: 6.13.0
-  origversion: 6.13.0-r10
-  status: outdated
-  summary: Name-indexed data processing tool (documentation)
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - BSD-2-Clause
-- repo: alpine_3_23
-  subrepo: community
-  srcname: miller
-  binname: miller
-  visiblename: miller
-  version: 6.15.0
-  origversion: 6.15.0-r8
-  status: outdated
-  summary: Name-indexed data processing tool
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - BSD-2-Clause
-- repo: alpine_3_23
-  subrepo: community
-  srcname: miller
-  binname: miller-doc
-  visiblename: miller-doc
-  version: 6.15.0
-  origversion: 6.15.0-r8
-  status: outdated
-  summary: Name-indexed data processing tool (documentation)
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - BSD-2-Clause
-- repo: alpine_3_24
-  subrepo: community
-  srcname: miller
-  binname: miller
-  visiblename: miller
-  version: 6.16.0
-  origversion: 6.16.0-r7
-  status: outdated
-  summary: Name-indexed data processing tool
-  maintainers:
-    - wanghao03@loongson.cn
-  licenses:
-    - BSD-2-Clause
-- repo: alpine_3_24
-  subrepo: community
-  srcname: miller
-  binname: miller-doc
-  visiblename: miller-doc
-  version: 6.16.0
-  origversion: 6.16.0-r7
-  status: outdated
-  summary: Name-indexed data processing tool (documentation)
-  maintainers:
-    - wanghao03@loongson.cn
-  licenses:
-    - BSD-2-Clause
-- repo: alpine_edge
-  subrepo: community
-  srcname: miller
-  binname: miller
-  visiblename: miller
-  version: 6.16.0
-  origversion: 6.16.0-r6
-  status: outdated
-  summary: Name-indexed data processing tool
-  maintainers:
-    - wanghao03@loongson.cn
-  licenses:
-    - BSD-2-Clause
-- repo: alpine_edge
-  subrepo: community
-  srcname: miller
-  binname: miller-doc
-  visiblename: miller-doc
-  version: 6.16.0
-  origversion: 6.16.0-r6
-  status: outdated
-  summary: Name-indexed data processing tool (documentation)
-  maintainers:
-    - wanghao03@loongson.cn
-  licenses:
-    - BSD-2-Clause
-- repo: altsisyphus
-  srcname: miller
-  binnames:
-    - miller
-    - miller-debuginfo
-  visiblename: miller
-  version: 6.20.2
-  origversion: 6.20.2-alt1
-  status: outdated
-  summary: Name-indexed data processing tool
-  maintainers:
-    - gerben@altlinux.org
-  licenses:
-    - BSD-2-Clause
-  categories:
-    - Text tools
-- repo: aur
-  srcname: miller-git
-  binname: miller-git
-  visiblename: miller-git
-  version: 6.13.0.r17.g05aa16cfc
-  origversion: 6.13.0.r17.g05aa16cfc-1
-  status: rolling
-  summary: sed, awk, cut, join, and sort for name-indexed data such as CSV and tabular JSON.
-  maintainers:
-    - severach@aur
-  licenses:
-    - BSD-2-Clause
 - repo: debian_13
   subrepo: trixie/main
   srcname: miller
@@ -630,6 +682,17 @@
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT
   categories:
     - Unspecified
+- repo: nix_stable_24_11
+  srcname: miller
+  visiblename: miller
+  version: 6.13.0
+  origversion: null
+  status: outdated
+  summary: Like awk, sed, cut, join, and sort for data formats such as CSV, TSV, JSON, JSON Lines, and positionally-indexed
+  maintainers:
+    - mstarzyk@gmail.com
+  licenses:
+    - BSD-2-Clause
 - repo: freebsd
   srcname: textproc/miller
   binname: miller
@@ -684,10 +747,30 @@
 - repo: homebrew
   srcname: miller
   visiblename: miller
+  version: 6.22.0
+  origversion: null
+  status: newest
+  summary: Like sed, awk, cut, join & sort for name-indexed data such as CSV
+- repo: homebrew
+  srcname: miller
+  visiblename: miller
   version: HEAD
   origversion: null
   status: rolling
   summary: Like sed, awk, cut, join & sort for name-indexed data such as CSV
+- repo: kali_rolling
+  subrepo: main
+  srcname: miller
+  binnames:
+    - miller
+  visiblename: miller
+  version: 6.18.1
+  origversion: 6.18.1-1
+  status: outdated
+  maintainers:
+    - skitt@debian.org
+  categories:
+    - misc
 - repo: liguros_stable
   srcname: sys-apps/miller
   visiblename: sys-apps/miller
@@ -768,50 +851,6 @@
   summary: Name-indexed data processing tool
   licenses:
     - BSD-2-Clause
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: miller
-  binname: miller
-  visiblename: miller
-  version: 6.22.0
-  origversion: 6.22.0-1
-  status: newest
-  summary: Name-indexed data processing tool
-  licenses:
-    - BSD-2-Clause
-- repo: nix_stable_24_05
-  srcname: miller
-  visiblename: miller
-  version: 6.12.0
-  origversion: null
-  status: outdated
-  summary: Like awk, sed, cut, join, and sort for data formats such as CSV, TSV, JSON, JSON Lines, and positionally-indexed
-  maintainers:
-    - mstarzyk@gmail.com
-  licenses:
-    - BSD-2-Clause
-- repo: nix_stable_24_11
-  srcname: miller
-  visiblename: miller
-  version: 6.13.0
-  origversion: null
-  status: outdated
-  summary: Like awk, sed, cut, join, and sort for data formats such as CSV, TSV, JSON, JSON Lines, and positionally-indexed
-  maintainers:
-    - mstarzyk@gmail.com
-  licenses:
-    - BSD-2-Clause
-- repo: nix_stable_25_05
-  srcname: miller
-  visiblename: miller
-  version: 6.13.0
-  origversion: null
-  status: outdated
-  summary: Like awk, sed, cut, join, and sort for data formats such as CSV, TSV, JSON, JSON Lines, and positionally-indexed
-  maintainers:
-    - mstarzyk@gmail.com
-  licenses:
-    - BSD-2-Clause
 - repo: nix_stable_25_11
   srcname: miller
   visiblename: miller
@@ -845,6 +884,19 @@
     - mstarzyk@gmail.com
   licenses:
     - BSD-2-Clause
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: miller
+  binnames:
+    - miller
+  visiblename: miller
+  version: 6.16.0
+  origversion: 6.16.0-1
+  status: outdated
+  maintainers:
+    - skitt@debian.org
+  categories:
+    - universe/misc
 - repo: openbsd
   srcname: textproc/miller
   binname: miller
@@ -919,6 +971,45 @@
   summary: Name-indexed data processing tool
   licenses:
     - BSD-2-Clause
+- repo: pardus_21
+  subrepo: main
+  srcname: miller
+  binnames:
+    - miller
+  visiblename: miller
+  version: 5.10.0
+  origversion: 5.10.0-1
+  status: outdated
+  maintainers:
+    - skitt@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: miller
+  binnames:
+    - miller
+  visiblename: miller
+  version: 6.13.0
+  origversion: 6.13.0-1
+  status: outdated
+  maintainers:
+    - skitt@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: miller
+  binnames:
+    - miller
+  visiblename: miller
+  version: 6.13.0
+  origversion: 6.13.0-1
+  status: outdated
+  maintainers:
+    - skitt@debian.org
+  categories:
+    - misc
 - repo: pkgsrc_2026_2
   srcname: textproc/miller
   binname: miller
@@ -936,7 +1027,7 @@
   binname: miller
   visiblename: textproc/miller
   version: 6.9.0
-  origversion: 6.9.0nb31
+  origversion: 6.9.0nb32
   status: outdated
   summary: Command-line CSV processor
   maintainers:
@@ -994,45 +1085,6 @@
     - skitt@debian.org
   categories:
     - utils
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: miller
-  binnames:
-    - miller
-  visiblename: miller
-  version: 6.6.0
-  origversion: 6.6.0-2
-  status: outdated
-  maintainers:
-    - skitt@debian.org
-  categories:
-    - misc
-- repo: raspbian_stable
-  subrepo: main
-  srcname: miller
-  binnames:
-    - miller
-  visiblename: miller
-  version: 6.13.0
-  origversion: 6.13.0-1
-  status: outdated
-  maintainers:
-    - skitt@debian.org
-  categories:
-    - misc
-- repo: raspbian_testing
-  subrepo: main
-  srcname: miller
-  binnames:
-    - miller
-  visiblename: miller
-  version: 6.18.1
-  origversion: 6.18.1-1
-  status: outdated
-  maintainers:
-    - skitt@debian.org
-  categories:
-    - misc
 - repo: scoop
   subrepo: main
   binname: miller
@@ -1114,19 +1166,6 @@
   categories:
     - universe/misc
 - repo: ubuntu_22_04
-  subrepo: jammy-updates/universe
-  srcname: miller
-  binnames:
-    - miller
-  visiblename: miller
-  version: 6.0.0
-  origversion: 6.0.0-1ubuntu0.1
-  status: outdated
-  maintainers:
-    - ubuntu-devel-discuss@lists.ubuntu.com
-  categories:
-    - universe/misc
-- repo: ubuntu_22_04
   subrepo: jammy/universe
   srcname: miller
   binnames:
@@ -1137,6 +1176,19 @@
   status: outdated
   maintainers:
     - skitt@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_22_04
+  subrepo: jammy-updates/universe
+  srcname: miller
+  binnames:
+    - miller
+  visiblename: miller
+  version: 6.0.0
+  origversion: 6.0.0-1ubuntu0.1
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
   categories:
     - universe/misc
 - repo: ubuntu_24_04
@@ -1150,58 +1202,6 @@
   status: outdated
   maintainers:
     - ubuntu-devel-discuss@lists.ubuntu.com
-  categories:
-    - universe/misc
-- repo: ubuntu_24_04
-  subrepo: noble/universe
-  srcname: miller
-  binnames:
-    - miller
-  visiblename: miller
-  version: 6.11.0
-  origversion: 6.11.0-1
-  status: outdated
-  maintainers:
-    - skitt@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_25_04
-  subrepo: plucky/universe
-  srcname: miller
-  binnames:
-    - miller
-  visiblename: miller
-  version: 6.13.0
-  origversion: 6.13.0-1
-  status: outdated
-  maintainers:
-    - skitt@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_25_10
-  subrepo: questing/universe
-  srcname: miller
-  binnames:
-    - miller
-  visiblename: miller
-  version: 6.13.0
-  origversion: 6.13.0-1
-  status: outdated
-  maintainers:
-    - skitt@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_26_04
-  subrepo: resolute/universe
-  srcname: miller
-  binnames:
-    - miller
-  visiblename: miller
-  version: 6.16.0
-  origversion: 6.16.0-1
-  status: outdated
-  maintainers:
-    - skitt@debian.org
   categories:
     - universe/misc
 - repo: ubuntu_26_10
