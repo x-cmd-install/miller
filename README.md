@@ -14,23 +14,23 @@ x install miller
 
 ## Code insight
 
-Total: **1,019,846** lines of code across **614** files in the top 5 languages.
+Total: **1,019,898** lines of code across **615** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 715,955 | 0 | 0 | 89 |
-| Go | 286,778 | 10,615 | 10,195 | 395 |
+| Go | 286,830 | 10,616 | 10,199 | 396 |
 | Autoconf | 10,457 | 785 | 4,034 | 94 |
 | Css | 1,504 | 115 | 356 | 5 |
 | Sh | 1,117 | 255 | 159 | 31 |
 
 ## OpenSSF Scorecard
 
-Overall score: **4.7 / 10**
+Overall score: **4.8 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 3/13 approved changesets -- score normalized to 2
+- **Code-Review** (3/10) — Found 5/13 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v6.22.0` (2026-09-25)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-10-26
 - **Assets in release**: 37
 
 ## Popularity
 
-- **Stars**: 10,052 · **Forks**: 249 · **Open issues**: 728 · **Contributors**: 70
+- **Stars**: 10,052 · **Forks**: 251 · **Open issues**: 728 · **Contributors**: 71
 
 ## Totals (cumulative)
 
-- **Releases**: 74 · **Merged PRs**: 1267 · **Open PRs**: 13 · **Closed issues**: 667 · **Open issues**: 61 · **Commits**: 9448
+- **Releases**: 74 · **Merged PRs**: 1270 · **Open PRs**: 14 · **Closed issues**: 667 · **Open issues**: 61 · **Commits**: 9451
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 14 | 4 | 2 | 2 | 10 |
-| last60d | 2026-08-27 | 1 | 28 | 4 | 3 | 3 | 29 |
-| 90d | 2026-07-28 | 2 | 41 | 4 | 3 | 4 | 48 |
-| last180d | 2026-04-29 | 4 | 191 | 13 | 11 | 6 | 213 |
-| 360d | 2025-10-31 | 7 | 317 | 13 | 22 | 7 | 359 |
-| last720d | 2024-11-05 | 9 | 455 | 13 | 53 | 11 | 511 |
+| 30d | 2026-09-27 | 0 | 17 | 5 | 1 | 1 | 13 |
+| last60d | 2026-08-28 | 1 | 31 | 5 | 3 | 3 | 32 |
+| 90d | 2026-07-29 | 2 | 43 | 5 | 3 | 4 | 51 |
+| last180d | 2026-04-30 | 4 | 194 | 14 | 11 | 6 | 216 |
+| 360d | 2025-11-01 | 7 | 320 | 14 | 22 | 7 | 362 |
+| last720d | 2024-11-06 | 9 | 458 | 14 | 53 | 11 | 514 |
 
 ## Release assets
 
@@ -109,7 +109,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **97** distros on [repology.org](https://repology.org/project/miller). **16** are ✅ on the latest upstream release, **75** are ⚠️ on an older version.
+Reported by **97** distros on [repology.org](https://repology.org/project/miller). **17** are ✅ on the latest upstream release, **74** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -135,4 +135,4 @@ Install metadata for miller lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:51:56Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T06:20:09Z._
