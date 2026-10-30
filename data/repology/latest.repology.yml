@@ -1,24 +1,11 @@
-- repo: alpine_3_17
-  subrepo: community
-  srcname: miller
-  binname: miller-doc
-  visiblename: miller-doc
-  version: 6.4.0
-  origversion: 6.4.0-r7
-  status: outdated
-  summary: Name-indexed data processing tool (documentation)
-  maintainers:
-    - kerl.john.r@gmail.com
-  licenses:
-    - BSD-2-Clause
-- repo: debian_11
-  subrepo: bullseye/main
+- repo: parrot
+  subrepo: parrot-updates/main
   srcname: miller
   binnames:
     - miller
   visiblename: miller
-  version: 5.10.0
-  origversion: 5.10.0-1
+  version: 6.13.0
+  origversion: 6.13.0-1
   status: outdated
   maintainers:
     - skitt@debian.org
@@ -27,6 +14,19 @@
 - repo: alpine_3_17
   subrepo: community
   srcname: miller
+  binname: miller-doc
+  visiblename: miller-doc
+  version: 6.4.0
+  origversion: 6.4.0-r7
+  status: outdated
+  summary: Name-indexed data processing tool (documentation)
+  maintainers:
+    - kerl.john.r@gmail.com
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_17
+  subrepo: community
+  srcname: miller
   binname: miller
   visiblename: miller
   version: 6.4.0
@@ -76,6 +76,19 @@
     - cielesti@protonmail.com
   licenses:
     - BSD-2-Clause
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: miller
+  binnames:
+    - miller
+  visiblename: miller
+  version: 6.13.0
+  origversion: 6.13.0-1
+  status: outdated
+  maintainers:
+    - skitt@debian.org
+  categories:
+    - misc
 - repo: alpine_3_19
   subrepo: community
   srcname: miller
@@ -225,7 +238,7 @@
   binname: miller
   visiblename: miller
   version: 6.16.0
-  origversion: 6.16.0-r6
+  origversion: 6.16.0-r7
   status: outdated
   summary: Name-indexed data processing tool
   maintainers:
@@ -238,7 +251,7 @@
   binname: miller-doc
   visiblename: miller-doc
   version: 6.16.0
-  origversion: 6.16.0-r6
+  origversion: 6.16.0-r7
   status: outdated
   summary: Name-indexed data processing tool (documentation)
   maintainers:
@@ -312,6 +325,19 @@
   summary: Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
   licenses:
     - Copyright (c) 2015 - John Kerl
+- repo: debian_11
+  subrepo: bullseye/main
+  srcname: miller
+  binnames:
+    - miller
+  visiblename: miller
+  version: 5.10.0
+  origversion: 5.10.0-1
+  status: outdated
+  maintainers:
+    - skitt@debian.org
+  categories:
+    - misc
 - repo: debian_12
   subrepo: bookworm/main
   srcname: miller
@@ -325,14 +351,14 @@
     - skitt@debian.org
   categories:
     - misc
-- repo: debian_13
-  subrepo: trixie/main
+- repo: kali_rolling
+  subrepo: main
   srcname: miller
   binnames:
     - miller
   visiblename: miller
-  version: 6.13.0
-  origversion: 6.13.0-1
+  version: 6.18.1
+  origversion: 6.18.1-1
   status: outdated
   maintainers:
     - skitt@debian.org
@@ -444,22 +470,6 @@
   categories:
     - Unspecified
 - repo: fedora_40
-  subrepo: release
-  srcname: miller
-  binnames:
-    - miller
-    - miller-debuginfo
-    - miller-debugsource
-  visiblename: miller
-  version: 5.10.2
-  origversion: 5.10.2-5.fc39
-  status: legacy
-  summary: Name-indexed data processing tool
-  licenses:
-    - BSD
-  categories:
-    - Unspecified
-- repo: fedora_40
   subrepo: updates
   srcname: miller
   binnames:
@@ -475,7 +485,7 @@
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT
   categories:
     - Unspecified
-- repo: fedora_41
+- repo: fedora_40
   subrepo: release
   srcname: miller
   binnames:
@@ -507,19 +517,22 @@
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND MIT
   categories:
     - Unspecified
-- repo: ubuntu_16_04
-  subrepo: xenial/universe
+- repo: fedora_41
+  subrepo: release
   srcname: miller
   binnames:
     - miller
+    - miller-debuginfo
+    - miller-debugsource
   visiblename: miller
-  version: 3.4.0
-  origversion: 3.4.0-1
-  status: outdated
-  maintainers:
-    - skitt@debian.org
+  version: 5.10.2
+  origversion: 5.10.2-5.fc39
+  status: legacy
+  summary: Name-indexed data processing tool
+  licenses:
+    - BSD
   categories:
-    - universe/misc
+    - Unspecified
 - repo: fedora_42
   subrepo: release
   srcname: miller
@@ -649,19 +662,6 @@
   origversion: null
   status: rolling
   summary: Like sed, awk, cut, join & sort for name-indexed data such as CSV
-- repo: kali_rolling
-  subrepo: main
-  srcname: miller
-  binnames:
-    - miller
-  visiblename: miller
-  version: 6.18.1
-  origversion: 6.18.1-1
-  status: outdated
-  maintainers:
-    - skitt@debian.org
-  categories:
-    - misc
 - repo: liguros_stable
   srcname: sys-apps/miller
   visiblename: sys-apps/miller
@@ -819,45 +819,6 @@
     - mstarzyk@gmail.com
   licenses:
     - BSD-2-Clause
-- repo: ubuntu_22_04
-  subrepo: jammy-updates/universe
-  srcname: miller
-  binnames:
-    - miller
-  visiblename: miller
-  version: 6.0.0
-  origversion: 6.0.0-1ubuntu0.1
-  status: outdated
-  maintainers:
-    - ubuntu-devel-discuss@lists.ubuntu.com
-  categories:
-    - universe/misc
-- repo: ubuntu_24_04
-  subrepo: noble/universe
-  srcname: miller
-  binnames:
-    - miller
-  visiblename: miller
-  version: 6.11.0
-  origversion: 6.11.0-1
-  status: outdated
-  maintainers:
-    - skitt@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_24_04
-  subrepo: noble-updates/universe
-  srcname: miller
-  binnames:
-    - miller
-  visiblename: miller
-  version: 6.11.0
-  origversion: 6.11.0-1ubuntu0.3
-  status: outdated
-  maintainers:
-    - ubuntu-devel-discuss@lists.ubuntu.com
-  categories:
-    - universe/misc
 - repo: openbsd
   srcname: textproc/miller
   binname: miller
@@ -940,19 +901,6 @@
   visiblename: miller
   version: 5.10.0
   origversion: 5.10.0-1
-  status: outdated
-  maintainers:
-    - skitt@debian.org
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: miller
-  binnames:
-    - miller
-  visiblename: miller
-  version: 6.13.0
-  origversion: 6.13.0-1
   status: outdated
   maintainers:
     - skitt@debian.org
@@ -1126,6 +1074,19 @@
   summary: Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
   maintainers:
     - termux@github
+- repo: ubuntu_16_04
+  subrepo: xenial/universe
+  srcname: miller
+  binnames:
+    - miller
+  visiblename: miller
+  version: 3.4.0
+  origversion: 3.4.0-1
+  status: outdated
+  maintainers:
+    - skitt@debian.org
+  categories:
+    - universe/misc
 - repo: ubuntu_18_04
   subrepo: bionic/universe
   srcname: miller
@@ -1153,6 +1114,19 @@
   categories:
     - universe/misc
 - repo: ubuntu_22_04
+  subrepo: jammy-updates/universe
+  srcname: miller
+  binnames:
+    - miller
+  visiblename: miller
+  version: 6.0.0
+  origversion: 6.0.0-1ubuntu0.1
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - universe/misc
+- repo: ubuntu_22_04
   subrepo: jammy/universe
   srcname: miller
   binnames:
@@ -1160,6 +1134,32 @@
   visiblename: miller
   version: 6.0.0
   origversion: 6.0.0-1
+  status: outdated
+  maintainers:
+    - skitt@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_24_04
+  subrepo: noble-updates/universe
+  srcname: miller
+  binnames:
+    - miller
+  visiblename: miller
+  version: 6.11.0
+  origversion: 6.11.0-1ubuntu0.3
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - universe/misc
+- repo: ubuntu_24_04
+  subrepo: noble/universe
+  srcname: miller
+  binnames:
+    - miller
+  visiblename: miller
+  version: 6.11.0
+  origversion: 6.11.0-1
   status: outdated
   maintainers:
     - skitt@debian.org
