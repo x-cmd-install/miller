@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 14 | 4 | 0 | 1 | 14 |
-| last60d | 2026-09-02 | 1 | 30 | 4 | 2 | 2 | 32 |
-| 90d | 2026-08-03 | 2 | 43 | 4 | 3 | 4 | 50 |
-| last180d | 2026-05-05 | 4 | 193 | 13 | 11 | 6 | 214 |
-| 360d | 2025-11-06 | 7 | 321 | 13 | 22 | 7 | 360 |
-| last720d | 2024-11-11 | 9 | 455 | 13 | 53 | 11 | 512 |
+| 30d | 2026-10-03 | 0 | 14 | 4 | 0 | 1 | 14 |
+| last60d | 2026-09-03 | 1 | 30 | 4 | 2 | 2 | 32 |
+| 90d | 2026-08-04 | 2 | 43 | 4 | 3 | 4 | 50 |
+| last180d | 2026-05-06 | 4 | 193 | 13 | 11 | 6 | 214 |
+| 360d | 2025-11-07 | 7 | 320 | 13 | 22 | 7 | 360 |
+| last720d | 2024-11-12 | 9 | 454 | 13 | 53 | 11 | 511 |
 
 ## Release assets
 
@@ -109,7 +109,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **97** distros on [repology.org](https://repology.org/project/miller). **17** are ✅ on the latest upstream release, **74** are ⚠️ on an older version.
+Reported by **97** distros on [repology.org](https://repology.org/project/miller). **16** are ✅ on the latest upstream release, **75** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -135,4 +135,4 @@ Install metadata for miller lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:20:46Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:24:29Z._
