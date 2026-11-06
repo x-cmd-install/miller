@@ -14,12 +14,12 @@ x install miller
 
 ## Code insight
 
-Total: **1,019,959** lines of code across **615** files in the top 5 languages.
+Total: **1,019,986** lines of code across **616** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 715,955 | 0 | 0 | 89 |
-| Go | 286,891 | 10,631 | 10,203 | 396 |
+| Go | 286,918 | 10,636 | 10,206 | 397 |
 | Autoconf | 10,457 | 785 | 4,034 | 94 |
 | Css | 1,504 | 115 | 356 | 5 |
 | Sh | 1,117 | 255 | 159 | 31 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v6.22.0` (2026-09-25)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-05
 - **Assets in release**: 37
 
 ## Popularity
 
-- **Stars**: 10,055 · **Forks**: 255 · **Open issues**: 729 · **Contributors**: 75
+- **Stars**: 10,053 · **Forks**: 255 · **Open issues**: 729 · **Contributors**: 75
 
 ## Totals (cumulative)
 
-- **Releases**: 74 · **Merged PRs**: 1277 · **Open PRs**: 13 · **Closed issues**: 667 · **Open issues**: 62 · **Commits**: 9458
+- **Releases**: 74 · **Merged PRs**: 1278 · **Open PRs**: 13 · **Closed issues**: 667 · **Open issues**: 62 · **Commits**: 9459
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 20 | 4 | 0 | 2 | 20 |
-| last60d | 2026-09-06 | 1 | 36 | 4 | 2 | 3 | 38 |
-| 90d | 2026-08-07 | 2 | 47 | 4 | 3 | 5 | 56 |
-| last180d | 2026-05-09 | 4 | 198 | 13 | 11 | 7 | 220 |
-| 360d | 2025-11-10 | 7 | 325 | 13 | 22 | 8 | 366 |
-| last720d | 2024-11-15 | 9 | 458 | 13 | 53 | 12 | 515 |
+| 30d | 2026-10-07 | 0 | 21 | 4 | 0 | 2 | 21 |
+| last60d | 2026-09-07 | 1 | 36 | 4 | 2 | 3 | 39 |
+| 90d | 2026-08-08 | 2 | 48 | 4 | 3 | 5 | 57 |
+| last180d | 2026-05-10 | 4 | 199 | 13 | 11 | 7 | 221 |
+| 360d | 2025-11-11 | 7 | 326 | 13 | 22 | 8 | 367 |
+| last720d | 2024-11-16 | 9 | 459 | 13 | 53 | 12 | 515 |
 
 ## Release assets
 
@@ -135,4 +135,4 @@ Install metadata for miller lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T08:01:43Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T08:18:37Z._
