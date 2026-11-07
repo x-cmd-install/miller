@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v6.22.0` (2026-09-25)
-- **Last commit**: 2026-11-05
+- **Last commit**: 2026-11-06
 - **Assets in release**: 37
 
 ## Popularity
 
-- **Stars**: 10,053 · **Forks**: 255 · **Open issues**: 729 · **Contributors**: 75
+- **Stars**: 10,055 · **Forks**: 256 · **Open issues**: 729 · **Contributors**: 75
 
 ## Totals (cumulative)
 
-- **Releases**: 74 · **Merged PRs**: 1278 · **Open PRs**: 13 · **Closed issues**: 667 · **Open issues**: 62 · **Commits**: 9459
+- **Releases**: 74 · **Merged PRs**: 1279 · **Open PRs**: 14 · **Closed issues**: 667 · **Open issues**: 62 · **Commits**: 9460
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 21 | 4 | 0 | 2 | 21 |
-| last60d | 2026-09-07 | 1 | 36 | 4 | 2 | 3 | 39 |
-| 90d | 2026-08-08 | 2 | 48 | 4 | 3 | 5 | 57 |
-| last180d | 2026-05-10 | 4 | 199 | 13 | 11 | 7 | 221 |
-| 360d | 2025-11-11 | 7 | 326 | 13 | 22 | 8 | 367 |
-| last720d | 2024-11-16 | 9 | 459 | 13 | 53 | 12 | 515 |
+| 30d | 2026-10-08 | 0 | 22 | 5 | 0 | 2 | 22 |
+| last60d | 2026-09-08 | 1 | 37 | 5 | 2 | 3 | 40 |
+| 90d | 2026-08-09 | 2 | 49 | 5 | 3 | 5 | 58 |
+| last180d | 2026-05-11 | 4 | 198 | 14 | 11 | 7 | 222 |
+| 360d | 2025-11-12 | 7 | 325 | 14 | 22 | 8 | 368 |
+| last720d | 2024-11-17 | 9 | 460 | 14 | 53 | 12 | 516 |
 
 ## Release assets
 
@@ -107,25 +107,6 @@ Lowest-scoring checks:
 | [miller-6.22.0-windows-arm64.zip](https://github.com/johnkerl/miller/releases/download/v6.22.0/miller-6.22.0-windows-arm64.zip) | 5.2 MiB | `native/win/arm64` |
 | [miller-6.22.0.tar.gz](https://github.com/johnkerl/miller/releases/download/v6.22.0/miller-6.22.0.tar.gz) | 3.3 MiB | `native/unknown` |
 
-## Distribution status
-
-Reported by **97** distros on [repology.org](https://repology.org/project/miller). **16** are ✅ on the latest upstream release, **75** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `6.18.1` | ⚠️ outdated |
-| Debian 14 | `6.18.1` | ⚠️ outdated |
-| Debian 13 | `6.13.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `6.16.0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `6.11.0` | ⚠️ outdated |
-| Arch | `6.22.0` | ✅ latest |
-| Homebrew | `6.22.0` | ✅ latest |
-| Fedora rawhide | `6.13.0` | ⚠️ outdated |
-| Nix unstable | `6.22.0` | ✅ latest |
-| Void | `6.22.0` | ✅ latest |
-| Alpine edge | `6.16.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `6.22.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for miller lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `miller` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -135,4 +116,4 @@ Install metadata for miller lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T08:18:37Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:12:07Z._
