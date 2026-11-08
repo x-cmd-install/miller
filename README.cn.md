@@ -48,7 +48,7 @@ x install miller
 
 ## 流行度
 
-- **Star**: 10,055 · **Fork**: 256 · **开放 issue**: 729 · **贡献者**: 75
+- **Star**: 10,056 · **Fork**: 257 · **开放 issue**: 729 · **贡献者**: 75
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install miller
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 22 | 5 | 0 | 2 | 22 |
-| last60d | 2026-09-08 | 1 | 37 | 5 | 2 | 3 | 40 |
-| 90d | 2026-08-09 | 2 | 49 | 5 | 3 | 5 | 58 |
-| last180d | 2026-05-11 | 4 | 198 | 14 | 11 | 7 | 222 |
-| 360d | 2025-11-12 | 7 | 325 | 14 | 22 | 8 | 368 |
-| last720d | 2024-11-17 | 9 | 460 | 14 | 53 | 12 | 516 |
+| 30d | 2026-10-09 | 0 | 22 | 5 | 0 | 2 | 22 |
+| last60d | 2026-09-09 | 1 | 33 | 5 | 2 | 3 | 40 |
+| 90d | 2026-08-10 | 2 | 48 | 5 | 3 | 5 | 58 |
+| last180d | 2026-05-12 | 4 | 198 | 14 | 11 | 7 | 222 |
+| 360d | 2025-11-13 | 7 | 325 | 14 | 22 | 8 | 368 |
+| last720d | 2024-11-18 | 9 | 460 | 14 | 53 | 12 | 516 |
 
 ## Release 资产
 
@@ -107,6 +107,25 @@ x install miller
 | [miller-6.22.0-windows-arm64.zip](https://github.com/johnkerl/miller/releases/download/v6.22.0/miller-6.22.0-windows-arm64.zip) | 5.2 MiB | `native/win/arm64` |
 | [miller-6.22.0.tar.gz](https://github.com/johnkerl/miller/releases/download/v6.22.0/miller-6.22.0.tar.gz) | 3.3 MiB | `native/unknown` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/miller) 上共有 **97** 个发行版报告此项目。**18** 个 ✅ 已是最新上游版本，**73** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `6.18.1` | ⚠️ outdated |
+| Debian 14 | `6.18.1` | ⚠️ outdated |
+| Debian 13 | `6.13.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `6.16.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `6.11.0` | ⚠️ outdated |
+| Arch | `6.22.0` | ✅ latest |
+| Homebrew | `6.22.0` | ✅ latest |
+| Fedora rawhide | `6.13.0` | ⚠️ outdated |
+| Nix unstable | `6.22.0` | ✅ latest |
+| Void | `6.22.0` | ✅ latest |
+| Alpine edge | `6.16.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `6.22.0` | ✅ latest |
+
 ## 改进这些数据
 
 miller 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `miller` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -116,4 +135,4 @@ miller 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261107.yml` · 2026-11-07T07:12:08Z._
+_数据快照: `data/card/261108.yml` · 2026-11-08T07:12:50Z._

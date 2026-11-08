@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,055 · **Forks**: 256 · **Open issues**: 729 · **Contributors**: 75
+- **Stars**: 10,056 · **Forks**: 257 · **Open issues**: 729 · **Contributors**: 75
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 22 | 5 | 0 | 2 | 22 |
-| last60d | 2026-09-08 | 1 | 37 | 5 | 2 | 3 | 40 |
-| 90d | 2026-08-09 | 2 | 49 | 5 | 3 | 5 | 58 |
-| last180d | 2026-05-11 | 4 | 198 | 14 | 11 | 7 | 222 |
-| 360d | 2025-11-12 | 7 | 325 | 14 | 22 | 8 | 368 |
-| last720d | 2024-11-17 | 9 | 460 | 14 | 53 | 12 | 516 |
+| 30d | 2026-10-09 | 0 | 22 | 5 | 0 | 2 | 22 |
+| last60d | 2026-09-09 | 1 | 33 | 5 | 2 | 3 | 40 |
+| 90d | 2026-08-10 | 2 | 48 | 5 | 3 | 5 | 58 |
+| last180d | 2026-05-12 | 4 | 198 | 14 | 11 | 7 | 222 |
+| 360d | 2025-11-13 | 7 | 325 | 14 | 22 | 8 | 368 |
+| last720d | 2024-11-18 | 9 | 460 | 14 | 53 | 12 | 516 |
 
 ## Release assets
 
@@ -107,6 +107,25 @@ Lowest-scoring checks:
 | [miller-6.22.0-windows-arm64.zip](https://github.com/johnkerl/miller/releases/download/v6.22.0/miller-6.22.0-windows-arm64.zip) | 5.2 MiB | `native/win/arm64` |
 | [miller-6.22.0.tar.gz](https://github.com/johnkerl/miller/releases/download/v6.22.0/miller-6.22.0.tar.gz) | 3.3 MiB | `native/unknown` |
 
+## Distribution status
+
+Reported by **97** distros on [repology.org](https://repology.org/project/miller). **18** are ✅ on the latest upstream release, **73** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `6.18.1` | ⚠️ outdated |
+| Debian 14 | `6.18.1` | ⚠️ outdated |
+| Debian 13 | `6.13.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `6.16.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `6.11.0` | ⚠️ outdated |
+| Arch | `6.22.0` | ✅ latest |
+| Homebrew | `6.22.0` | ✅ latest |
+| Fedora rawhide | `6.13.0` | ⚠️ outdated |
+| Nix unstable | `6.22.0` | ✅ latest |
+| Void | `6.22.0` | ✅ latest |
+| Alpine edge | `6.16.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `6.22.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for miller lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `miller` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -116,4 +135,4 @@ Install metadata for miller lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T07:12:07Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T07:12:49Z._
