@@ -1,3 +1,77 @@
+- repo: parabola
+  subrepo: extra
+  srcname: miller
+  binname: miller
+  visiblename: miller
+  version: 6.22.0
+  origversion: 6.22.0-1
+  status: newest
+  summary: Name-indexed data processing tool
+  licenses:
+    - BSD-2-Clause
+- repo: pardus_21
+  subrepo: main
+  srcname: miller
+  binnames:
+    - miller
+  visiblename: miller
+  version: 5.10.0
+  origversion: 5.10.0-1
+  status: outdated
+  maintainers:
+    - skitt@debian.org
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: miller
+  binnames:
+    - miller
+  visiblename: miller
+  version: 6.18.1
+  origversion: 6.18.1-1
+  status: outdated
+  maintainers:
+    - skitt@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: miller
+  binnames:
+    - miller
+  visiblename: miller
+  version: 6.13.0
+  origversion: 6.13.0-1
+  status: outdated
+  maintainers:
+    - skitt@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: miller
+  binnames:
+    - miller
+  visiblename: miller
+  version: 6.13.0
+  origversion: 6.13.0-1
+  status: outdated
+  maintainers:
+    - skitt@debian.org
+  categories:
+    - misc
+- repo: epel_8
+  srcname: miller
+  visiblename: miller
+  version: 5.10.2
+  origversion: 5.10.2-1.el8
+  status: outdated
+  summary: Name-indexed data processing tool
+  licenses:
+    - BSD
+  categories:
+    - Unspecified
 - repo: alpine_3_17
   subrepo: community
   srcname: miller
@@ -388,30 +462,6 @@
     - skitt@debian.org
   categories:
     - misc
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: miller
-  binnames:
-    - miller
-  visiblename: miller
-  version: 6.18.1
-  origversion: 6.18.1-1
-  status: outdated
-  maintainers:
-    - skitt@debian.org
-  categories:
-    - misc
-- repo: epel_8
-  srcname: miller
-  visiblename: miller
-  version: 5.10.2
-  origversion: 5.10.2-1.el8
-  status: outdated
-  summary: Name-indexed data processing tool
-  licenses:
-    - BSD
-  categories:
-    - Unspecified
 - repo: epel_9
   srcname: miller
   binnames:
@@ -576,7 +626,7 @@
   binname: miller
   visiblename: textproc/miller
   version: 6.22.0
-  origversion: 6.22.0_2
+  origversion: 6.22.0_3
   status: newest
   summary: Sed/awk/cut/join/sort for name-indexed data such as CSV, TSV and JSON
   maintainers:
@@ -680,6 +730,18 @@
     - Unlicense
   categories:
     - sys-apps
+- repo: pkgsrc_2026_2
+  srcname: textproc/miller
+  binname: miller
+  visiblename: textproc/miller
+  version: 6.9.0
+  origversion: 6.9.0nb27
+  status: outdated
+  summary: Command-line CSV processor
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
 - repo: liguros_develop
   srcname: sys-apps/miller
   visiblename: sys-apps/miller
@@ -858,68 +920,6 @@
     - BSD-2-Clause AND BSD-4-Clause
   categories:
     - Productivity/Text/Utilities
-- repo: parabola
-  subrepo: extra
-  srcname: miller
-  binname: miller
-  visiblename: miller
-  version: 6.22.0
-  origversion: 6.22.0-1
-  status: newest
-  summary: Name-indexed data processing tool
-  licenses:
-    - BSD-2-Clause
-- repo: pardus_21
-  subrepo: main
-  srcname: miller
-  binnames:
-    - miller
-  visiblename: miller
-  version: 5.10.0
-  origversion: 5.10.0-1
-  status: outdated
-  maintainers:
-    - skitt@debian.org
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot/main
-  srcname: miller
-  binnames:
-    - miller
-  visiblename: miller
-  version: 6.13.0
-  origversion: 6.13.0-1
-  status: outdated
-  maintainers:
-    - skitt@debian.org
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: miller
-  binnames:
-    - miller
-  visiblename: miller
-  version: 6.13.0
-  origversion: 6.13.0-1
-  status: outdated
-  maintainers:
-    - skitt@debian.org
-  categories:
-    - misc
-- repo: pkgsrc_2026_2
-  srcname: textproc/miller
-  binname: miller
-  visiblename: textproc/miller
-  version: 6.9.0
-  origversion: 6.9.0nb27
-  status: outdated
-  summary: Command-line CSV processor
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - devel
 - repo: pkgsrc_2026_3
   srcname: textproc/miller
   binname: miller
@@ -937,7 +937,7 @@
   binname: miller
   visiblename: textproc/miller
   version: 6.22.0
-  origversion: null
+  origversion: 6.22.0nb1
   status: newest
   summary: Command-line CSV processor
   maintainers:
@@ -1103,19 +1103,6 @@
   categories:
     - universe/misc
 - repo: ubuntu_22_04
-  subrepo: jammy-updates/universe
-  srcname: miller
-  binnames:
-    - miller
-  visiblename: miller
-  version: 6.0.0
-  origversion: 6.0.0-1ubuntu0.1
-  status: outdated
-  maintainers:
-    - ubuntu-devel-discuss@lists.ubuntu.com
-  categories:
-    - universe/misc
-- repo: ubuntu_22_04
   subrepo: jammy/universe
   srcname: miller
   binnames:
@@ -1126,6 +1113,19 @@
   status: outdated
   maintainers:
     - skitt@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_22_04
+  subrepo: jammy-updates/universe
+  srcname: miller
+  binnames:
+    - miller
+  visiblename: miller
+  version: 6.0.0
+  origversion: 6.0.0-1ubuntu0.1
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
   categories:
     - universe/misc
 - repo: ubuntu_24_04
