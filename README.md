@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,061 · **Forks**: 261 · **Open issues**: 730 · **Contributors**: 79
+- **Stars**: 10,062 · **Forks**: 261 · **Open issues**: 730 · **Contributors**: 79
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 33 | 4 | 0 | 2 | 33 |
-| last60d | 2026-09-15 | 1 | 46 | 5 | 2 | 4 | 50 |
-| 90d | 2026-08-16 | 1 | 64 | 5 | 3 | 5 | 67 |
-| last180d | 2026-05-18 | 4 | 207 | 14 | 11 | 8 | 231 |
-| 360d | 2025-11-19 | 7 | 340 | 14 | 22 | 9 | 383 |
-| last720d | 2024-11-24 | 9 | 475 | 14 | 51 | 13 | 527 |
+| 30d | 2026-10-16 | 0 | 33 | 4 | 0 | 2 | 33 |
+| last60d | 2026-09-16 | 1 | 46 | 5 | 2 | 4 | 50 |
+| 90d | 2026-08-17 | 1 | 61 | 5 | 3 | 5 | 67 |
+| last180d | 2026-05-19 | 4 | 206 | 14 | 11 | 8 | 231 |
+| 360d | 2025-11-20 | 7 | 339 | 14 | 22 | 9 | 383 |
+| last720d | 2024-11-25 | 9 | 474 | 14 | 51 | 13 | 527 |
 
 ## Release assets
 
@@ -135,4 +135,4 @@ Install metadata for miller lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T08:13:39Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:59:22Z._
