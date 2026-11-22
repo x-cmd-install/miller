@@ -42,18 +42,18 @@ Total: **1,020,492** lines of code across **616** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 74 · **Merged PRs**: 1302 · **Open PRs**: 15 · **Closed issues**: 669 · **Open issues**: 63 · **Commits**: 9483
+- **Releases**: 74 · **Merged PRs**: 1302 · **Open PRs**: 17 · **Closed issues**: 669 · **Open issues**: 63 · **Commits**: 9483
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 35 | 3 | 2 | 2 | 37 |
-| last60d | 2026-09-22 | 1 | 51 | 6 | 4 | 4 | 56 |
-| 90d | 2026-08-23 | 1 | 65 | 6 | 5 | 5 | 69 |
-| last180d | 2026-05-25 | 4 | 209 | 15 | 13 | 8 | 233 |
-| 360d | 2025-11-26 | 7 | 343 | 15 | 24 | 9 | 386 |
-| last720d | 2024-12-01 | 9 | 480 | 15 | 53 | 13 | 532 |
+| 30d | 2026-10-23 | 0 | 35 | 4 | 2 | 2 | 31 |
+| last60d | 2026-09-23 | 1 | 51 | 8 | 4 | 4 | 45 |
+| 90d | 2026-08-24 | 1 | 64 | 8 | 5 | 5 | 66 |
+| last180d | 2026-05-26 | 4 | 209 | 17 | 13 | 8 | 232 |
+| 360d | 2025-11-27 | 7 | 343 | 17 | 24 | 9 | 384 |
+| last720d | 2024-12-02 | 9 | 480 | 17 | 53 | 13 | 532 |
 
 ## Release assets
 
@@ -99,11 +99,11 @@ Total: **1,020,492** lines of code across **616** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **97** distros on [repology.org](https://repology.org/project/miller). **18** are ✅ on the latest upstream release, **73** are ⚠️ on an older version.
+Reported by **98** distros on [repology.org](https://repology.org/project/miller). **20** are ✅ on the latest upstream release, **71** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `6.18.1` | ⚠️ outdated |
+| Debian unstable | `6.18.1` | 🪦 legacy |
 | Debian 14 | `6.18.1` | ⚠️ outdated |
 | Debian 13 | `6.13.0` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `6.16.0` | ⚠️ outdated |
@@ -125,4 +125,4 @@ Install metadata for miller lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:55:29Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:15:27Z._
