@@ -33,27 +33,27 @@ Total: **1,020,626** lines of code across **617** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v6.23.0` (2026-11-22)
-- **Last commit**: 2026-11-22
+- **Last commit**: 2026-11-23
 - **Assets in release**: 37
 
 ## Popularity
 
-- **Stars**: 10,069 · **Forks**: 261 · **Open issues**: 732 · **Contributors**: 79
+- **Stars**: 10,070 · **Forks**: 261 · **Open issues**: 732 · **Contributors**: 79
 
 ## Totals (cumulative)
 
-- **Releases**: 75 · **Merged PRs**: 1306 · **Open PRs**: 15 · **Closed issues**: 669 · **Open issues**: 63 · **Commits**: 9490
+- **Releases**: 75 · **Merged PRs**: 1309 · **Open PRs**: 15 · **Closed issues**: 669 · **Open issues**: 63 · **Commits**: 9493
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 39 | 2 | 2 | 2 | 38 |
-| last60d | 2026-09-24 | 2 | 55 | 6 | 4 | 4 | 52 |
-| 90d | 2026-08-25 | 2 | 68 | 6 | 5 | 5 | 73 |
-| last180d | 2026-05-27 | 5 | 213 | 15 | 13 | 8 | 239 |
-| 360d | 2025-11-28 | 8 | 347 | 15 | 24 | 9 | 391 |
-| last720d | 2024-12-03 | 10 | 484 | 15 | 53 | 13 | 539 |
+| 30d | 2026-10-25 | 1 | 42 | 2 | 2 | 2 | 41 |
+| last60d | 2026-09-25 | 2 | 56 | 6 | 4 | 4 | 55 |
+| 90d | 2026-08-26 | 2 | 71 | 6 | 5 | 5 | 76 |
+| last180d | 2026-05-28 | 5 | 215 | 15 | 13 | 8 | 242 |
+| 360d | 2025-11-29 | 8 | 350 | 15 | 24 | 9 | 394 |
+| last720d | 2024-12-04 | 10 | 486 | 15 | 53 | 13 | 542 |
 
 ## Release assets
 
@@ -99,7 +99,7 @@ Total: **1,020,626** lines of code across **617** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **98** distros on [repology.org](https://repology.org/project/miller). **4** are ✅ on the latest upstream release, **87** are ⚠️ on an older version.
+Reported by **98** distros on [repology.org](https://repology.org/project/miller). **8** are ✅ on the latest upstream release, **83** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -108,7 +108,7 @@ Reported by **98** distros on [repology.org](https://repology.org/project/miller
 | Debian 13 | `6.13.0` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `6.16.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `6.11.0` | ⚠️ outdated |
-| Arch | `6.22.0` | ⚠️ outdated |
+| Arch | `6.23.0` | ✅ latest |
 | Homebrew | `6.23.0` | ✅ latest |
 | Fedora rawhide | `6.13.0` | ⚠️ outdated |
 | Nix unstable | `6.22.0` | ⚠️ outdated |
@@ -125,4 +125,4 @@ Install metadata for miller lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T09:57:52Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:44:07Z._
