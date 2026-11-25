@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3242518,
       "digest": "sha256:89ff2c5ebd8f442af3c4da4877917c97b8dfc1e67418daca040d77d6f81ca46c",
-      "download_count": 21,
+      "download_count": 23,
       "created_at": "2026-11-22T22:25:37Z",
       "updated_at": "2026-11-22T22:25:37Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-1.src.rpm"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6211217,
       "digest": "sha256:85ecbbe402a5d7e15ec2aa39bb7f8b18700e47ff3b7f6c64c9b8d11b7c8cfef8",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-11-22T22:21:22Z",
       "updated_at": "2026-11-22T22:21:22Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-aix-ppc64.rpm"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6023620,
       "digest": "sha256:941568b26fe8f4cf9ef4a3571f625c6495794712c3e268e3c663dca291437aab",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-22T22:21:15Z",
       "updated_at": "2026-11-22T22:21:15Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-aix-ppc64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3318,
       "digest": "sha256:f1d07a95628ef95cf5547fe2d401265a6c28ef262f8a8f454ec675c03791ad1d",
-      "download_count": 66,
+      "download_count": 70,
       "created_at": "2026-11-22T22:21:24Z",
       "updated_at": "2026-11-22T22:21:24Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-checksums.txt"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6328151,
       "digest": "sha256:c75ac2aab422e96cb59a642e39659e2664ceb80639ff8a0c5387fc56d2e9ebc7",
-      "download_count": 18,
+      "download_count": 21,
       "created_at": "2026-11-22T22:21:18Z",
       "updated_at": "2026-11-22T22:21:19Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-darwin-amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 5731147,
       "digest": "sha256:b91a8daafface9c1c4f93f82c3daa32c5db44001cce83c9aa4ea0ed56e46041d",
-      "download_count": 127,
+      "download_count": 153,
       "created_at": "2026-11-22T22:21:20Z",
       "updated_at": "2026-11-22T22:21:20Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-darwin-arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5791803,
       "digest": "sha256:38912640e05833d07bf94a690c3bd64a856d0567c79c9b82aad71345c9757a08",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-22T22:21:16Z",
       "updated_at": "2026-11-22T22:21:17Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-freebsd-386.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 6198973,
       "digest": "sha256:7d8199fbdccffcde7aa6cbfe47b504ed080bff77b7ed88eb3f8d4e1e0f10350e",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-22T22:21:18Z",
       "updated_at": "2026-11-22T22:21:19Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-freebsd-amd64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 5463111,
       "digest": "sha256:014e642e134068125710a4fd20f73575bdcf0c0f8754543e3e96d4528badd35c",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-22T22:21:15Z",
       "updated_at": "2026-11-22T22:21:16Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-freebsd-arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 5822724,
       "digest": "sha256:9252092731196574b96fccafc91639e62232e755dd637fb0176703ef4ea4bcb7",
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2026-11-22T22:21:21Z",
       "updated_at": "2026-11-22T22:21:21Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-linux-386.deb"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 5963351,
       "digest": "sha256:5dd73f4400d4342bbf46229b3d7cb3eb952b7b9893db04d12218a154032d0741",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-22T22:21:23Z",
       "updated_at": "2026-11-22T22:21:23Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-linux-386.rpm"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 5834076,
       "digest": "sha256:93675c1247c9f8e37e2f2dd8331200beafe812d511df319e6755e0f21302ea82",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-11-22T22:21:16Z",
       "updated_at": "2026-11-22T22:21:17Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-linux-386.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 6220928,
       "digest": "sha256:d629e9bfb29802a295f162ad8e60bfe1e27613d68187a642e92ad95d9ba930bb",
-      "download_count": 14,
+      "download_count": 19,
       "created_at": "2026-11-22T22:21:21Z",
       "updated_at": "2026-11-22T22:21:21Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-linux-amd64.deb"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 6384041,
       "digest": "sha256:1ae47baa1b1fdf2743c30cc276dd2f93b2bc20be58bfc693bbaa605d7751cf6c",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-11-22T22:21:22Z",
       "updated_at": "2026-11-22T22:21:22Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-linux-amd64.rpm"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 6227198,
       "digest": "sha256:3d9b22ee1269b46c864ffc64e5696abe3352a7f91530bb01be51967a4ceeeac3",
-      "download_count": 333,
+      "download_count": 460,
       "created_at": "2026-11-22T22:21:17Z",
       "updated_at": "2026-11-22T22:21:18Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-linux-amd64.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 5485214,
       "digest": "sha256:e0bfdc048b12cb50cdbc35cdec7bc01b70d68b88efaee8c608f74e0eea50598c",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-22T22:21:20Z",
       "updated_at": "2026-11-22T22:21:20Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-linux-arm64.deb"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 5634205,
       "digest": "sha256:380adc33289b3178b20f23ff778ca2f731fe41d62867ae3e945461128a3ab106",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-22T22:21:22Z",
       "updated_at": "2026-11-22T22:21:22Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-linux-arm64.rpm"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 5493298,
       "digest": "sha256:2d5e66474c5c5143f40e671a429a18ef05b91b06dbde8ec253978e5a35d20c7d",
-      "download_count": 32,
+      "download_count": 37,
       "created_at": "2026-11-22T22:21:19Z",
       "updated_at": "2026-11-22T22:21:19Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-linux-arm64.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 5911320,
       "digest": "sha256:336f37285dfac6664c55b0920873ec08864785392dba6a36ce197faf12290d28",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-22T22:21:20Z",
       "updated_at": "2026-11-22T22:21:20Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-linux-armv6.deb"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 6052619,
       "digest": "sha256:4e4cccafefd018d3ba89e425dedcddf42a85cea15be5d87e80443f039fb17322",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-22T22:21:22Z",
       "updated_at": "2026-11-22T22:21:22Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-linux-armv6.rpm"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 5918938,
       "digest": "sha256:2f052f8337992e8dc39f861929f4afa05bae29a165df5ceae3a5be017f93ac28",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-22T22:21:15Z",
       "updated_at": "2026-11-22T22:21:16Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-linux-armv6.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 5881382,
       "digest": "sha256:a7353174a44bf75e058c466e16e63889bf8a7a715a57fd5b3d760ed6bfcb3c7d",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-22T22:21:21Z",
       "updated_at": "2026-11-22T22:21:21Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-linux-armv7.deb"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 6031707,
       "digest": "sha256:ec1f7c2125a4ff6f34c2aa782b89971deb46421f03623aa4f63c42a2511824a2",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-22T22:21:23Z",
       "updated_at": "2026-11-22T22:21:23Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-linux-armv7.rpm"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 5892208,
       "digest": "sha256:f0b79d87066dd4ffc5362180aa8464f343d7e376a15d5eb4c9617346e450551e",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-11-22T22:21:17Z",
       "updated_at": "2026-11-22T22:21:18Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-linux-armv7.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 5504150,
       "digest": "sha256:217b7ad238cb549695f5900df11132406069684e569a33cd97bc7c891a3d31d2",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-22T22:21:20Z",
       "updated_at": "2026-11-22T22:21:20Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-linux-ppc64le.deb"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 5630652,
       "digest": "sha256:7e574584eed934d0bc49965288279858f13640697617ad96dac56ca32b0696c6",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-22T22:21:24Z",
       "updated_at": "2026-11-22T22:21:24Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-linux-ppc64le.rpm"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 5507375,
       "digest": "sha256:151786cbfda0a608dbec1816aebf5067a8e7a4c61ef54828ba71ee9a8d1425cb",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-22T22:21:16Z",
       "updated_at": "2026-11-22T22:21:17Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-linux-ppc64le.tar.gz"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 5794312,
       "digest": "sha256:1fe967a758749b33ecea59478db87fa086d212414a67117ae2dcde9a0efa0831",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-22T22:21:21Z",
       "updated_at": "2026-11-22T22:21:21Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-linux-riscv64.deb"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 5941384,
       "digest": "sha256:04c10ddfeb86949f3de0da4f18195158af3ffa9c5a526ed0f80de59a2e9df5d3",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-22T22:21:23Z",
       "updated_at": "2026-11-22T22:21:23Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-linux-riscv64.rpm"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 5803782,
       "digest": "sha256:9c05337ee813b8d02fed62073a7693d20c75f272774044c05fc1990fdba80b1e",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-22T22:21:16Z",
       "updated_at": "2026-11-22T22:21:17Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-linux-riscv64.tar.gz"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 5995062,
       "digest": "sha256:b8b49c0c61f1614a587ce81e147fd86a0510b2886716793da8f264e2d21d9c19",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-22T22:21:23Z",
       "updated_at": "2026-11-22T22:21:23Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-linux-s390x.deb"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 6211652,
       "digest": "sha256:f7ca746b27c88675f27bdc879e1e46e3e830fa25dea8a83b3961b61f6dc41899",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-22T22:21:24Z",
       "updated_at": "2026-11-22T22:21:24Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-linux-s390x.rpm"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 6004386,
       "digest": "sha256:5d603d8eba4098ab1fb1b84bc1b38323f2795042071b4ebb4928effbf6231566",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-22T22:21:17Z",
       "updated_at": "2026-11-22T22:21:18Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-linux-s390x.tar.gz"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 6127366,
       "digest": "sha256:abea69c1a7de0d464d53f67b30b900d0baeae861405c151abad40effca4dfe11",
-      "download_count": 19,
+      "download_count": 21,
       "created_at": "2026-11-22T22:21:18Z",
       "updated_at": "2026-11-22T22:21:19Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-windows-386.zip"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 6385262,
       "digest": "sha256:8192fbc5e959637f4112b34dcfdc518c1b59701bc34777ca528dc749ece15a1a",
-      "download_count": 164,
+      "download_count": 217,
       "created_at": "2026-11-22T22:21:17Z",
       "updated_at": "2026-11-22T22:21:18Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-windows-amd64.zip"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 5569207,
       "digest": "sha256:86a14238d63d441e10a1d979a882afc444eedc291f5c98d8650a8f9b40162cbc",
-      "download_count": 22,
+      "download_count": 24,
       "created_at": "2026-11-22T22:21:15Z",
       "updated_at": "2026-11-22T22:21:16Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-windows-arm64.zip"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 3510427,
       "digest": "sha256:855b5c32798dffacc83f2c8da74abd1e9318571f8944c669e4003b5e2662a7e5",
-      "download_count": 86,
+      "download_count": 99,
       "created_at": "2026-11-22T22:25:38Z",
       "updated_at": "2026-11-22T22:25:39Z",
       "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0.tar.gz"
