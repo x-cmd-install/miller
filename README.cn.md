@@ -38,22 +38,22 @@ x install miller
 
 ## 流行度
 
-- **Star**: 10,071 · **Fork**: 261 · **开放 issue**: 732 · **贡献者**: 80
+- **Star**: 10,072 · **Fork**: 264 · **开放 issue**: 733 · **贡献者**: 80
 
 ## 累计统计
 
-- **发布数**: 75 · **已合并 PR**: 1310 · **开放 PR**: 15 · **已关闭 issue**: 669 · **开放 issue**: 63 · **提交数**: 9494
+- **发布数**: 75 · **已合并 PR**: 1310 · **开放 PR**: 17 · **已关闭 issue**: 669 · **开放 issue**: 64 · **提交数**: 9494
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 1 | 39 | 2 | 2 | 2 | 42 |
-| last60d | 2026-09-27 | 1 | 57 | 6 | 3 | 3 | 56 |
-| 90d | 2026-08-28 | 2 | 71 | 6 | 5 | 5 | 77 |
-| last180d | 2026-05-30 | 5 | 216 | 15 | 13 | 8 | 243 |
-| 360d | 2025-12-01 | 8 | 351 | 15 | 24 | 9 | 395 |
-| last720d | 2024-12-06 | 10 | 484 | 15 | 53 | 13 | 540 |
+| 30d | 2026-10-28 | 1 | 39 | 4 | 2 | 3 | 42 |
+| last60d | 2026-09-28 | 1 | 54 | 8 | 2 | 4 | 56 |
+| 90d | 2026-08-29 | 2 | 71 | 8 | 5 | 6 | 77 |
+| last180d | 2026-05-31 | 5 | 216 | 17 | 13 | 9 | 243 |
+| 360d | 2025-12-02 | 8 | 349 | 17 | 24 | 10 | 395 |
+| last720d | 2024-12-07 | 10 | 484 | 17 | 53 | 14 | 539 |
 
 ## Release 资产
 
@@ -97,6 +97,25 @@ x install miller
 | [miller-6.23.0-windows-arm64.zip](https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0-windows-arm64.zip) | 5.3 MiB | `native/win/arm64` |
 | [miller-6.23.0.tar.gz](https://github.com/johnkerl/miller/releases/download/v6.23.0/miller-6.23.0.tar.gz) | 3.3 MiB | `native/unknown` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/miller) 上共有 **96** 个发行版报告此项目。**11** 个 ✅ 已是最新上游版本，**79** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `6.23.0` | ✅ latest |
+| Debian 14 | `6.18.1` | ⚠️ outdated |
+| Debian 13 | `6.13.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `6.16.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `6.11.0` | ⚠️ outdated |
+| Arch | `6.23.0` | ✅ latest |
+| Homebrew | `6.23.0` | ✅ latest |
+| Fedora rawhide | `6.13.0` | ⚠️ outdated |
+| Nix unstable | `6.22.0` | ⚠️ outdated |
+| Void | `6.22.0` | ⚠️ outdated |
+| Alpine edge | `6.16.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `6.22.0` | ⚠️ outdated |
+
 ## 改进这些数据
 
 miller 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `miller` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -106,4 +125,4 @@ miller 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T10:27:29Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T09:49:38Z._
