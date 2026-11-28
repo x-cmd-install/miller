@@ -1,0 +1,223 @@
+about:
+  description: "Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON"
+  license: NOASSERTION
+  homepage: https://miller.readthedocs.io
+  head: ef6238b
+  archived: false
+  latestVersion: "v6.23.0"
+  latestRelease: "v6.23.0"
+  latestPrerelease: "v5.10.4"
+  collectedAt: 2026-11-28T09:27:20Z
+timeline:
+  created: 2015-05-03
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-22
+  lastRelease: 2026-11-22
+  lastPrerelease: 2022-11-27
+popularity:
+  star: 10071
+  watcher: 61
+  fork: 265
+  release: 75
+  contributor: 83
+  pullRequest: 1395
+  issue: 733
+language:
+  Go: 19273953
+  Shell: 47856
+  Python: 24669
+  Ruby: 22317
+  Zig: 14631
+  C: 11408
+  Rust: 10912
+  C++: 7729
+  Vim Script: 6261
+  Makefile: 6217
+  Nim: 6003
+  D: 1062
+  Batchfile: 568
+  ASL: 37
+totalBytes: 19433623
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 1
+    mergedPR: 44
+    openPR: 4
+    closedIssue: 5
+    openIssue: 0
+    commit: 47
+  last60d:
+    since: 2026-09-29
+    release: 1
+    mergedPR: 58
+    openPR: 8
+    closedIssue: 5
+    openIssue: 1
+    commit: 61
+  last90d:
+    since: 2026-08-30
+    release: 2
+    mergedPR: 76
+    openPR: 8
+    closedIssue: 8
+    openIssue: 3
+    commit: 82
+  last180d:
+    since: 2026-06-01
+    release: 5
+    mergedPR: 221
+    openPR: 17
+    closedIssue: 16
+    openIssue: 6
+    commit: 248
+  last360d:
+    since: 2025-12-03
+    release: 8
+    mergedPR: 354
+    openPR: 17
+    closedIssue: 27
+    openIssue: 7
+    commit: 400
+  last720d:
+    since: 2024-12-08
+    release: 10
+    mergedPR: 489
+    openPR: 17
+    closedIssue: 56
+    openIssue: 11
+    commit: 544
+total:
+  release: 75
+  mergedPR: 1315
+  openPR: 17
+  closedIssue: 672
+  openIssue: 61
+  commit: 9499
+---
+path: /home/runner/.x-repo/github.com/johnkerl/miller
+collectedAt: 2026-11-28T09:27:45Z
+loc:
+  Json:
+    code: 715955
+    comments: 0
+    blanks: 0
+    files: 89
+  Go:
+    code: 287872
+    comments: 10692
+    blanks: 10271
+    files: 399
+  Autoconf:
+    code: 10454
+    comments: 785
+    blanks: 4041
+    files: 94
+  Css:
+    code: 1504
+    comments: 115
+    blanks: 356
+    files: 5
+  Sh:
+    code: 1157
+    comments: 259
+    blanks: 160
+    files: 31
+  Ruby:
+    code: 948
+    comments: 209
+    blanks: 177
+    files: 20
+  Python:
+    code: 653
+    comments: 124
+    blanks: 158
+    files: 7
+  C:
+    code: 414
+    comments: 55
+    blanks: 44
+    files: 9
+  Zig:
+    code: 373
+    comments: 10
+    blanks: 34
+    files: 2
+  Rust:
+    code: 319
+    comments: 24
+    blanks: 46
+    files: 8
+  Cpp:
+    code: 268
+    comments: 8
+    blanks: 34
+    files: 2
+  Bash:
+    code: 253
+    comments: 82
+    blanks: 48
+    files: 15
+  Nim:
+    code: 188
+    comments: 16
+    blanks: 27
+    files: 6
+  Yaml:
+    code: 177
+    comments: 0
+    blanks: 10
+    files: 3
+  RPMSpecfile:
+    code: 132
+    comments: 1
+    blanks: 57
+    files: 1
+  VimScript:
+    code: 131
+    comments: 8
+    blanks: 10
+    files: 2
+  Makefile:
+    code: 124
+    comments: 87
+    blanks: 51
+    files: 6
+  D:
+    code: 38
+    comments: 7
+    blanks: 4
+    files: 2
+  Batch:
+    code: 10
+    comments: 0
+    blanks: 2
+    files: 1
+  Html:
+    code: 6
+    comments: 2
+    blanks: 4
+    files: 1
+  JavaScript:
+    code: 6
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 34123
+    blanks: 6526
+    files: 144
+  Text:
+    code: 0
+    comments: 221862
+    blanks: 1491
+    files: 58
+total:
+  code: 1021094
+  comments: 268487
+  blanks: 23560
+  files: 906
+---
+
+---
